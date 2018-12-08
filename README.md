@@ -25,5 +25,11 @@ http://wiki.ros.org/vision_opencv
 http://wiki.ros.org/cv_bridge/Tutorials/UsingCvBridgeToConvertBetweenROSImagesAndOpenCVImages
 http://wiki.ros.org/rospy_tutorials/Tutorials/WritingImagePublisherSubscriber
 https://github.com/AVRS-MQP/AVRS
+http://wiki.ros.org/abb/Tutorials
+http://wiki.ros.org/Industrial
+http://wiki.ros.org/abb_driver
+https://github.com/stereolabs/zed-ros-wrapper
+https://rosindustrial.org/tech-support
+https://github.com/ros-industrial
 
 ```
