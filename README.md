@@ -50,5 +50,10 @@ https://askubuntu.com/questions/947639/how-to-find-the-ip-address-for-a-device-o
 https://answers.ros.org/question/255459/motion-planning-from-moveit-to-robot-studioexecution-time-problem/
 https://answers.ros.org/question/196586/how-do-i-disable-execution_duration_monitoring/
 https://superuser.com/questions/261818/how-can-i-list-all-ips-in-the-connected-network-through-terminal-preferably
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
+https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
+https://askubuntu.com/questions/416528/changing-permissions-for-folders-and-files-in-var-www
+https://askubuntu.com/questions/329714/what-is-the-purpose-of-the-nobody-user
+https://industrial-training-master.readthedocs.io/en/latest/_source/session3/Build-a-Moveit!-Package.html
 
 ```
