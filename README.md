@@ -47,5 +47,8 @@ https://github.com/diggerdata
 https://github.com/AVRS-MQP/AVRS
 https://github.com/ros-planning/moveit_tutorials/tree/kinetic-devel/doc/move_group_interface
 https://askubuntu.com/questions/947639/how-to-find-the-ip-address-for-a-device-on-a-network
+https://answers.ros.org/question/255459/motion-planning-from-moveit-to-robot-studioexecution-time-problem/
+https://answers.ros.org/question/196586/how-do-i-disable-execution_duration_monitoring/
+https://superuser.com/questions/261818/how-can-i-list-all-ips-in-the-connected-network-through-terminal-preferably
 
 ```
