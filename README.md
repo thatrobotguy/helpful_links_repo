@@ -39,5 +39,7 @@ http://wiki.ros.org/Industrial/Install
 https://github.com/ros-industrial/industrial_moveit
 https://www.pyimagesearch.com/2015/02/02/just-open-sourced-personal-imutils-package-series-opencv-convenience-functions/
 https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
+https://medium.com/tensorflow/amd-rocm-gpu-support-for-tensorflow-33c78cc6a6cf
+https://help.ubuntu.com/community/NetworkPrintingWithUbuntu
 
 ```
