@@ -13,5 +13,17 @@ http://wiki.ros.org/image_transport/Tutorials/PublishingImages
 https://github.com/cedricve/raspicam
 https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/
 https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space
+https://answers.ros.org/question/283806/how-to-subscribe-to-a-camera-and-save-image/
+https://answers.ros.org/question/244598/syntax-error-near-unexpected-token-int-mainint-argc-char-argv/
+https://answers.ros.org/question/130651/add-the-installation-prefix-to-cmake_prefix_path/
+http://wiki.ros.org/catkin/CMakeLists.txt
+http://wiki.ros.org/image_common
+http://wiki.ros.org/image_transport/Tutorials
+http://wiki.ros.org/image_transport/Tutorials/SubscribingToImages
+https://answers.ros.org/question/88066/opencv-in-makefile/
+http://wiki.ros.org/vision_opencv
+http://wiki.ros.org/cv_bridge/Tutorials/UsingCvBridgeToConvertBetweenROSImagesAndOpenCVImages
+http://wiki.ros.org/rospy_tutorials/Tutorials/WritingImagePublisherSubscriber
+https://github.com/AVRS-MQP/AVRS
 
 ```
