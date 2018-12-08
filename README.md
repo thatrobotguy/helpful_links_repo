@@ -43,5 +43,9 @@ https://medium.com/tensorflow/amd-rocm-gpu-support-for-tensorflow-33c78cc6a6cf
 https://help.ubuntu.com/community/NetworkPrintingWithUbuntu
 https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29#rospy_tutorials.2BAC8-Tutorials.2BAC8-WritingPublisherSubscriber.Writing_the_Subscriber_Node
 https://guides.github.com/features/mastering-markdown/
+https://github.com/diggerdata
+https://github.com/AVRS-MQP/AVRS
+https://github.com/ros-planning/moveit_tutorials/tree/kinetic-devel/doc/move_group_interface
+https://askubuntu.com/questions/947639/how-to-find-the-ip-address-for-a-device-on-a-network
 
 ```
