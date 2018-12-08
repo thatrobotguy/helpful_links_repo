@@ -36,5 +36,6 @@ https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arc
 https://www.tensorflow.org/install/pip
 https://answers.ros.org/question/243192/catkin_make-vs-catkin-build/
 http://wiki.ros.org/Industrial/Install
+https://github.com/ros-industrial/industrial_moveit
 
 ```
