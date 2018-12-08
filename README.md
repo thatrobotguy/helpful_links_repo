@@ -41,5 +41,7 @@ https://www.pyimagesearch.com/2015/02/02/just-open-sourced-personal-imutils-pack
 https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
 https://medium.com/tensorflow/amd-rocm-gpu-support-for-tensorflow-33c78cc6a6cf
 https://help.ubuntu.com/community/NetworkPrintingWithUbuntu
+https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29#rospy_tutorials.2BAC8-Tutorials.2BAC8-WritingPublisherSubscriber.Writing_the_Subscriber_Node
+https://guides.github.com/features/mastering-markdown/
 
 ```
