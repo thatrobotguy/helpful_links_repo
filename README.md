@@ -9,4 +9,9 @@ http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
 http://wiki.ros.org/image_transport#Python_Usage
 https://answers.ros.org/question/99831/publish-file-to-image-topic/
 https://github.com/ros-perception/image_common
+http://wiki.ros.org/image_transport/Tutorials/PublishingImages
+https://github.com/cedricve/raspicam
+https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/
+https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space
+
 ```
