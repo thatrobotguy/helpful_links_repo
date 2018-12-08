@@ -37,5 +37,6 @@ https://www.tensorflow.org/install/pip
 https://answers.ros.org/question/243192/catkin_make-vs-catkin-build/
 http://wiki.ros.org/Industrial/Install
 https://github.com/ros-industrial/industrial_moveit
+https://www.pyimagesearch.com/2015/02/02/just-open-sourced-personal-imutils-package-series-opencv-convenience-functions/
 
 ```
