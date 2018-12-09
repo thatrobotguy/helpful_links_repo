@@ -65,5 +65,7 @@ https://www.geek.com/chips/how-to-tell-how-much-ram-your-raspberry-pi-has-152252
 http://wiki.ros.org/Industrial
 http://wiki.ros.org/Industrial/Tutorials#ABB
 https://www.paramiko.org
+https://cmake.org/pipermail/cmake/2011-May/044295.html
+https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/CHAPTER09/WINDOWS_VERSIONS/
 
 ```
