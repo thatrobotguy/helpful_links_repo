@@ -60,5 +60,10 @@ https://stackoverflow.com/questions/24570916/add-external-libraries-to-cmakelist
 https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 https://codeyarns.com/2013/10/10/how-to-add-include-directories-in-cmake/
 https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
+http://wiki.ros.org/catkin/CMakeLists.txt
+https://www.geek.com/chips/how-to-tell-how-much-ram-your-raspberry-pi-has-1522529/
+http://wiki.ros.org/Industrial
+http://wiki.ros.org/Industrial/Tutorials#ABB
+https://www.paramiko.org
 
 ```
