@@ -67,5 +67,8 @@ http://wiki.ros.org/Industrial/Tutorials#ABB
 https://www.paramiko.org
 https://cmake.org/pipermail/cmake/2011-May/044295.html
 https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/CHAPTER09/WINDOWS_VERSIONS/
+https://stackoverflow.com/questions/36720498/convert-keras-model-to-c
+http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
+https://www.tensorflow.org/api_docs/cc/
 
 ```
