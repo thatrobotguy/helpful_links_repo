@@ -55,5 +55,10 @@ https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
 https://askubuntu.com/questions/416528/changing-permissions-for-folders-and-files-in-var-www
 https://askubuntu.com/questions/329714/what-is-the-purpose-of-the-nobody-user
 https://industrial-training-master.readthedocs.io/en/latest/_source/session3/Build-a-Moveit!-Package.html
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged
+https://stackoverflow.com/questions/24570916/add-external-libraries-to-cmakelist-txt-c
+https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+https://codeyarns.com/2013/10/10/how-to-add-include-directories-in-cmake/
+https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
 
 ```
