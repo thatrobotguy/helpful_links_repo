@@ -96,5 +96,6 @@ https://answers.ros.org/question/63491/keyboard-key-pressed/
 https://answers.ros.org/question/205863/ros-not-responding-to-keypress-to-waitkey/
 https://answers.ros.org/question/162846/displaying-opencvs-windows/
 https://www.opencv-srf.com/2017/12/play-video-from-file-or-camera.html
+https://www.opencv-srf.com/2017/11/load-and-display-image.html
 
 ```
