@@ -71,5 +71,6 @@ https://stackoverflow.com/questions/36720498/convert-keras-model-to-c
 http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
 https://www.tensorflow.org/api_docs/cc/
 https://websiteforstudents.com/setup-openssh-password-authentication-ubuntu-17-04-17-10/
+https://askubuntu.com/questions/152868/how-do-i-make-a-ram-disk
 
 ```
