@@ -74,5 +74,9 @@ https://websiteforstudents.com/setup-openssh-password-authentication-ubuntu-17-0
 https://askubuntu.com/questions/152868/how-do-i-make-a-ram-disk
 https://www.techwalla.com/articles/how-to-remove-characters-from-a-string-in-python
 https://www.youtube.com/channel/UCtwaWPOXEBysZLh1rrPzwFw
+https://www.pjrc.com/teensy/troubleshoot.html
+https://www.panucatt.com/product_p/sd8825.htm
+http://files.panucatt.com/datasheets/sd8825_user_guide.pdf
+https://wiki.ros.org/tf/Tutorials/Writing%20a%20tf%20broadcaster%20%28C%2B%2B%29
 
 ```
