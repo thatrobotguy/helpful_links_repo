@@ -79,5 +79,6 @@ https://www.panucatt.com/product_p/sd8825.htm
 http://files.panucatt.com/datasheets/sd8825_user_guide.pdf
 https://wiki.ros.org/tf/Tutorials/Writing%20a%20tf%20broadcaster%20%28C%2B%2B%29
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
+https://www.instructables.com/id/How-to-use-a-Buzzer-Arduino-Tutorial/
 
 ```
