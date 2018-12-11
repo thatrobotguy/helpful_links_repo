@@ -73,5 +73,6 @@ https://www.tensorflow.org/api_docs/cc/
 https://websiteforstudents.com/setup-openssh-password-authentication-ubuntu-17-04-17-10/
 https://askubuntu.com/questions/152868/how-do-i-make-a-ram-disk
 https://www.techwalla.com/articles/how-to-remove-characters-from-a-string-in-python
+https://www.youtube.com/channel/UCtwaWPOXEBysZLh1rrPzwFw
 
 ```
