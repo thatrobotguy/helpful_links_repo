@@ -91,4 +91,10 @@ https://docs.opencv.org/3.4.3/db/d75/samples_2cpp_2create_mask_8cpp-example.html
 http://answers.opencv.org/question/16618/imshow-namedwindow-crash/
 https://stackoverflow.com/questions/7139968/trying-to-close-opencv-window-has-no-effect
 http://answers.opencv.org/question/70459/opencv-namedwindow-hangs-when-ros-imagetransport-is-included/
+https://answers.ros.org/question/273258/unable-to-view-image-using-image_view-in-ros-indigo-with-rosberrypi_cam/
+https://answers.ros.org/question/63491/keyboard-key-pressed/
+https://answers.ros.org/question/205863/ros-not-responding-to-keypress-to-waitkey/
+https://answers.ros.org/question/162846/displaying-opencvs-windows/
+https://www.opencv-srf.com/2017/12/play-video-from-file-or-camera.html
 
+```
