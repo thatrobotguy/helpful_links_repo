@@ -81,6 +81,7 @@ https://wiki.ros.org/tf/Tutorials/Writing%20a%20tf%20broadcaster%20%28C%2B%2B%29
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
 https://www.instructables.com/id/How-to-use-a-Buzzer-Arduino-Tutorial/
 https://github.com/shinnok/johnny/issues/108
+https://answers.ros.org/question/218818/how-to-publish-a-ros-msg-on-linux-terminal/
 
 ```
 
@@ -98,5 +99,6 @@ https://answers.ros.org/question/205863/ros-not-responding-to-keypress-to-waitke
 https://answers.ros.org/question/162846/displaying-opencvs-windows/
 https://www.opencv-srf.com/2017/12/play-video-from-file-or-camera.html
 https://www.opencv-srf.com/2017/11/load-and-display-image.html
+https://thefreecoder.wordpress.com/2012/09/11/opencv-c-video-capture/
 
 ```
