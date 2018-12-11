@@ -95,6 +95,11 @@ CPP links
 https://www.geeksforgeeks.org/multithreading-in-cpp/
 https://www.programiz.com/cpp-programming
 http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf
+https://www.geeksforgeeks.org/vector-in-cpp-stl/
+https://stackoverflow.com/questions/1120140/how-can-i-read-and-parse-csv-files-in-c
+https://stackoverflow.com/questions/5199557/reading-a-string-and-integers
+https://stackoverflow.com/questions/1894886/parsing-a-comma-delimited-stdstring
+https://github.com/shinnok/johnny/issues/108
 
 ```
 
@@ -116,5 +121,17 @@ https://thefreecoder.wordpress.com/2012/09/11/opencv-c-video-capture/
 https://docs.opencv.org/3.3.1/modules.html
 https://www.learnopencv.com/opencv-transparent-api/
 https://www.opencv-srf.com/2011/11/mouse-events.html
+https://docs.opencv.org/3.4/d6/d6d/tutorial_mat_the_basic_image_container.html
+https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html
+https://stackoverflow.com/questions/17547429/how-to-draw-a-polygon-using-opencv
+https://docs.opencv.org/2.4/modules/imgproc/doc/structural_analysis_and_shape_descriptors.html?highlight=poly#approxpolydp
+https://docs.opencv.org/3.0-beta/modules/imgproc/doc/drawing_functions.html
+https://vovkos.github.io/doxyrest-showcase/opencv/sphinx_rtd_theme/group_imgproc_draw.html
+https://vovkos.github.io/doxyrest-showcase/opencv/sphinx_rtd_theme/group_imgproc_draw.html#doxid-d6-d6e-group-imgproc-draw-1ga746c0625f1781f1ffc9056259103edbc
+https://vovkos.github.io/doxyrest-showcase/opencv/sphinx_rtd_theme/enum_cv_LineTypes.html#details-doxid-d0-de1-group-core-1gaf076ef45de481ac96e0ab3dc2c29a777
+http://breckon.eu/toby/teaching/dip/practicals/ia/polygons.cpp
+https://stackoverflow.com/questions/8281239/drawing-polygons-in-opencv
+http://unanancyowen.com/en/opencv-with-libjpeg-turbo/
+https://docs.opencv.org/3.4.1/d3/d63/classcv_1_1Mat.html
 
 ```
