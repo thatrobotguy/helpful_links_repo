@@ -82,6 +82,19 @@ https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
 https://www.instructables.com/id/How-to-use-a-Buzzer-Arduino-Tutorial/
 https://github.com/shinnok/johnny/issues/108
 https://answers.ros.org/question/218818/how-to-publish-a-ros-msg-on-linux-terminal/
+https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1604
+https://websiteforstudents.com/setup-openssh-password-authentication-ubuntu-17-04-17-10/
+http://library.isr.ist.utl.pt/docs/roswiki/image_transport.html
+https://wiki.ros.org/rospy_tutorials/Tutorials
+https://wiki.ros.org/rospy_tutorials/Tutorials/WritingImagePublisherSubscriber
+
+```
+
+CPP links
+```
+https://www.geeksforgeeks.org/multithreading-in-cpp/
+https://www.programiz.com/cpp-programming
+http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf
 
 ```
 
@@ -100,5 +113,8 @@ https://answers.ros.org/question/162846/displaying-opencvs-windows/
 https://www.opencv-srf.com/2017/12/play-video-from-file-or-camera.html
 https://www.opencv-srf.com/2017/11/load-and-display-image.html
 https://thefreecoder.wordpress.com/2012/09/11/opencv-c-video-capture/
+https://docs.opencv.org/3.3.1/modules.html
+https://www.learnopencv.com/opencv-transparent-api/
+https://www.opencv-srf.com/2011/11/mouse-events.html
 
 ```
