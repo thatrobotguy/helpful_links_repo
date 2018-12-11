@@ -70,5 +70,6 @@ https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/C
 https://stackoverflow.com/questions/36720498/convert-keras-model-to-c
 http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
 https://www.tensorflow.org/api_docs/cc/
+https://websiteforstudents.com/setup-openssh-password-authentication-ubuntu-17-04-17-10/
 
 ```
