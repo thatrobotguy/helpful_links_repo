@@ -82,3 +82,13 @@ https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
 https://www.instructables.com/id/How-to-use-a-Buzzer-Arduino-Tutorial/
 
 ```
+
+OpenCV links
+```
+http://answers.opencv.org/question/96817/how-to-create-mask-from-an-image-in-opencv/
+https://docs.opencv.org/3.4.3/d7/dfc/group__highgui.html#ga5628525ad33f52eab17feebcfba38bd7
+https://docs.opencv.org/3.4.3/db/d75/samples_2cpp_2create_mask_8cpp-example.html
+http://answers.opencv.org/question/16618/imshow-namedwindow-crash/
+https://stackoverflow.com/questions/7139968/trying-to-close-opencv-window-has-no-effect
+http://answers.opencv.org/question/70459/opencv-namedwindow-hangs-when-ros-imagetransport-is-included/
+
