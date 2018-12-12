@@ -143,9 +143,12 @@ https://pixycam.com/downloads-pixy2/
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2
 https://www.youtube.com/watch?v=XdQwZi6l9Ns
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v1:building_libpixyusb_as_a_python_module_on_linux
+
 ```
 
 Python links
 ```
 https://stackoverflow.com/questions/8028036/what-does-this-message-mean-from-cant-read-var-mail-ex48-learn-python-the-h
+https://stackoverflow.com/questions/20059581/load-custom-library-instead-of-standard-library
 ```
