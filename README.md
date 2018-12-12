@@ -100,6 +100,8 @@ https://stackoverflow.com/questions/1120140/how-can-i-read-and-parse-csv-files-i
 https://stackoverflow.com/questions/5199557/reading-a-string-and-integers
 https://stackoverflow.com/questions/1894886/parsing-a-comma-delimited-stdstring
 https://github.com/shinnok/johnny/issues/108
+https://stackoverflow.com/questions/12417378/cast-from-char-to-int-loses-precision
+https://stackoverflow.com/questions/33557497/c-reading-in-a-file-ignoring-commas-and-outputting-data-to-the-screen
 
 ```
 
@@ -133,6 +135,7 @@ http://breckon.eu/toby/teaching/dip/practicals/ia/polygons.cpp
 https://stackoverflow.com/questions/8281239/drawing-polygons-in-opencv
 http://unanancyowen.com/en/opencv-with-libjpeg-turbo/
 https://docs.opencv.org/3.4.1/d3/d63/classcv_1_1Mat.html
+http://opencvexamples.blogspot.com/2013/10/bitwise-and-or-xor-and-not.html
 
 ```
 
@@ -157,4 +160,12 @@ https://stackoverflow.com/questions/20059581/load-custom-library-instead-of-stan
 Linux Links
 ```
 https://embraceubuntu.com/2005/10/19/list-only-the-directories/
+http://stahlworks.com/dev/index.php?tool=extract
+https://stackoverflow.com/questions/48729215/how-to-check-character-encoding-of-a-file-in-linux
+
+```
+
+Tensorflow Links
+```
+http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
 ```
