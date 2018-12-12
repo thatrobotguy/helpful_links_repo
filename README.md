@@ -135,3 +135,17 @@ http://unanancyowen.com/en/opencv-with-libjpeg-turbo/
 https://docs.opencv.org/3.4.1/d3/d63/classcv_1_1Mat.html
 
 ```
+
+Pixy 2 Camera
+```
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:uploading_new_firmware
+https://pixycam.com/downloads-pixy2/
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2
+https://www.youtube.com/watch?v=XdQwZi6l9Ns
+```
+
+Python links
+```
+https://stackoverflow.com/questions/8028036/what-does-this-message-mean-from-cant-read-var-mail-ex48-learn-python-the-h
+```
