@@ -170,3 +170,9 @@ Tensorflow Links
 ```
 http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
 ```
+
+Jetson TX2 Links
+```
+https://devtalk.nvidia.com/default/topic/1025010/jetson-tx2/how-to-use-can-on-jetson-tx2-/
+
+```
