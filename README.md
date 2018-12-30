@@ -159,6 +159,7 @@ https://stackoverflow.com/questions/20059581/load-custom-library-instead-of-stan
 https://docs.python.org/2/library/socket.html
 https://www.programiz.com/python-programming/operator-overloading
 https://www.tutorialgateway.org/python-copysign/
+https://stackoverflow.com/questions/14431170/get-the-bits-of-a-float-in-python
 
 ```
 
