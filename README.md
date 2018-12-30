@@ -157,6 +157,7 @@ https://stackoverflow.com/questions/8028036/what-does-this-message-mean-from-can
 https://stackoverflow.com/questions/4906977/how-do-i-access-environment-variables-from-python
 https://stackoverflow.com/questions/20059581/load-custom-library-instead-of-standard-library
 https://docs.python.org/2/library/socket.html
+https://www.programiz.com/python-programming/operator-overloading
 
 ```
 
