@@ -186,5 +186,6 @@ http://www.mercotac.com/index.html
 Raspberry Pi Links
 ```
 https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
+https://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
 
 ```
