@@ -160,6 +160,8 @@ https://docs.python.org/2/library/socket.html
 https://www.programiz.com/python-programming/operator-overloading
 https://www.tutorialgateway.org/python-copysign/
 https://stackoverflow.com/questions/14431170/get-the-bits-of-a-float-in-python
+https://pythonspot.com/python-network-sockets-programming-tutorial/
+https://www.pygame.org/docs/ref/joystick.html
 
 ```
 
@@ -185,6 +187,7 @@ https://devtalk.nvidia.com/default/topic/1025010/jetson-tx2/how-to-use-can-on-je
 Hardware Links
 ```
 http://www.mercotac.com/index.html
+https://sdl.beuc.net/sdl.wiki/Handling_Joysticks
 
 ```
 
@@ -192,5 +195,6 @@ Raspberry Pi Links
 ```
 https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
 https://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
+https://www.mbtechworks.com/hardware/raspberry-pi-UART-SPI-I2C.html
 
 ```
