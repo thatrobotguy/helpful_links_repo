@@ -158,6 +158,7 @@ https://stackoverflow.com/questions/4906977/how-do-i-access-environment-variable
 https://stackoverflow.com/questions/20059581/load-custom-library-instead-of-standard-library
 https://docs.python.org/2/library/socket.html
 https://www.programiz.com/python-programming/operator-overloading
+https://www.tutorialgateway.org/python-copysign/
 
 ```
 
