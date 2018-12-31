@@ -198,5 +198,6 @@ https://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie
 https://www.mbtechworks.com/hardware/raspberry-pi-UART-SPI-I2C.html
 https://www.abelectronics.co.uk/kb/article/1035/raspberry-pi-3-serial-port-usage
 https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
+https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
 
 ```
