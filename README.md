@@ -210,6 +210,8 @@ Linux Links
 https://embraceubuntu.com/2005/10/19/list-only-the-directories/
 http://stahlworks.com/dev/index.php?tool=extract
 https://stackoverflow.com/questions/48729215/how-to-check-character-encoding-of-a-file-in-linux
+https://raspberrypi.stackexchange.com/questions/73416/remove-repository-from-sources-list-d
+
 
 ```
 
@@ -244,5 +246,6 @@ https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-
 https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
 https://learn.adafruit.com/assets/35695
 https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
+https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
 
 ```
