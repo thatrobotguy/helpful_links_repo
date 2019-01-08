@@ -95,6 +95,8 @@ ROS Links
 https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
 https://docs.ros.org/api/std_msgs/html/index-msg.html
 https://answers.ros.org/question/218818/how-to-publish-a-ros-msg-on-linux-terminal/
+https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
+https://github.com/ros-drivers/usb_cam
 
 ```
 
@@ -145,6 +147,11 @@ https://stackoverflow.com/questions/8281239/drawing-polygons-in-opencv
 http://unanancyowen.com/en/opencv-with-libjpeg-turbo/
 https://docs.opencv.org/3.4.1/d3/d63/classcv_1_1Mat.html
 http://opencvexamples.blogspot.com/2013/10/bitwise-and-or-xor-and-not.html
+https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/
+https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
+
 
 ```
 
