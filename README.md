@@ -97,6 +97,27 @@ https://docs.ros.org/api/std_msgs/html/index-msg.html
 https://answers.ros.org/question/218818/how-to-publish-a-ros-msg-on-linux-terminal/
 https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
 https://github.com/ros-drivers/usb_cam
+https://www.clearpathrobotics.com/assets/guides/ros/Launch%20Files.html
+https://www.clearpathrobotics.com/
+https://answers.ros.org/question/145801/cant-locate-node-in-package/
+https://wiki.ros.org/roslaunch/XML
+https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29'
+https://wiki.ros.org/Parameter%20Server
+https://wiki.ros.org/rospy/Overview/Parameter%20Server
+https://wiki.ros.org/rospy/Overview/Logging
+https://answers.ros.org/question/28090/namespace-renaming/'
+https://wiki.ros.org/roslaunch/XML
+https://wiki.ros.org/roslaunch/XML/remap
+https://answers.ros.org/question/297109/read-parameter-in-launch-file/
+https://wiki.ros.org/roslaunch/XML/rosparam
+https://riptutorial.com/ros/example/24423/launch-ros-nodes-and-load-parameters-from-yaml-file
+https://answers.ros.org/question/12216/launch-file-how-to-write-it/
+https://answers.ros.org/question/213145/use-rosparam-get-in-launch-file/
+https://wiki.ros.org/roslaunch/XML/arg
+https://wiki.ros.org/roslaunch/XML
+https://wiki.ros.org/roslaunch
+https://www.clearpathrobotics.com/assets/guides/ros/ROS%20Parameter%20Server.html
+
 
 ```
 
@@ -151,6 +172,8 @@ https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-pyth
 https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
+http://opencvpython.blogspot.com/2012/07/background-extraction-using-running.html
+https://www.programcreek.com/python/example/89364/cv2.accumulateWeighted
 
 
 ```
