@@ -94,6 +94,7 @@ ROS Links
 ```
 https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
 https://docs.ros.org/api/std_msgs/html/index-msg.html
+https://answers.ros.org/question/218818/how-to-publish-a-ros-msg-on-linux-terminal/
 
 ```
 
@@ -198,6 +199,8 @@ Hardware Links
 http://www.mercotac.com/index.html
 https://sdl.beuc.net/sdl.wiki/Handling_Joysticks
 https://github.com/luni64/TeensyStep
+https://www.panucatt.com/product_p/sd8825.htm
+http://files.panucatt.com/datasheets/sd8825_user_guide.pdf
 
 ```
 
