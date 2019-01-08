@@ -248,5 +248,6 @@ https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-
 https://learn.adafruit.com/assets/35695
 https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
 https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
+https://www.adafruit.com/product/954
 
 ```
