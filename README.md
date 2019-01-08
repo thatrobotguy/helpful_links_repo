@@ -93,6 +93,7 @@ https://wiki.ros.org/rospy_tutorials/Tutorials/WritingImagePublisherSubscriber
 ROS Links
 ```
 https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
+https://docs.ros.org/api/std_msgs/html/index-msg.html
 
 ```
 
