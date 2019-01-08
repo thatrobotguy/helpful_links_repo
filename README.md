@@ -209,5 +209,6 @@ https://www.abelectronics.co.uk/kb/article/1035/raspberry-pi-3-serial-port-usage
 https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
 https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
 https://learn.adafruit.com/assets/35695
+https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
 
 ```
