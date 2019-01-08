@@ -90,6 +90,12 @@ https://wiki.ros.org/rospy_tutorials/Tutorials/WritingImagePublisherSubscriber
 
 ```
 
+ROS Links
+```
+https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
+
+```
+
 CPP links
 ```
 https://www.geeksforgeeks.org/multithreading-in-cpp/
@@ -162,6 +168,8 @@ https://www.tutorialgateway.org/python-copysign/
 https://stackoverflow.com/questions/14431170/get-the-bits-of-a-float-in-python
 https://pythonspot.com/python-network-sockets-programming-tutorial/
 https://www.pygame.org/docs/ref/joystick.html
+https://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package
+https://pythonspot.com/python-network-sockets-programming-tutorial/
 
 ```
 
@@ -200,5 +208,6 @@ https://www.mbtechworks.com/hardware/raspberry-pi-UART-SPI-I2C.html
 https://www.abelectronics.co.uk/kb/article/1035/raspberry-pi-3-serial-port-usage
 https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
 https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
+https://learn.adafruit.com/assets/35695
 
 ```
