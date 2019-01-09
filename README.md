@@ -134,6 +134,8 @@ https://github.com/shinnok/johnny/issues/108
 https://stackoverflow.com/questions/12417378/cast-from-char-to-int-loses-precision
 https://stackoverflow.com/questions/33557497/c-reading-in-a-file-ignoring-commas-and-outputting-data-to-the-screen
 https://stackoverflow.com/questions/26127075/how-to-return-the-directory-of-the-cpp-file
+https://stackoverflow.com/questions/15344714/convert-command-line-argument-to-string
+https://www.learncpp.com/cpp-tutorial/713-command-line-arguments/
 
 ```
 
