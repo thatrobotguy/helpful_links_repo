@@ -279,3 +279,9 @@ https://store.protofusion.org/product/canable-pro/
 https://github.com/pawelsky/FlexCAN_Library
 
 ```
+
+CAD Stuff
+```
+https://www.youtube.com/playlist?list=PLU238OLHZaihlzrE8nVbTbh2rYHdEP0c0
+
+```
