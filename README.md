@@ -297,3 +297,7 @@ Github Help
 https://github.com/github/gitignore
 
 ```
+Writing Papers in Latex
+```
+http://www.personal.ceu.hu/tex/breaking.htm
+```
