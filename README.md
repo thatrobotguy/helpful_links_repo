@@ -300,4 +300,7 @@ https://github.com/github/gitignore
 Writing Papers in Latex
 ```
 http://www.personal.ceu.hu/tex/breaking.htm
+https://tex.stackexchange.com/questions/34580/escape-character-in-latex
+https://tex.stackexchange.com/questions/2229/is-a-period-after-an-abbreviation-the-same-as-an-end-of-sentence-period
+
 ```
