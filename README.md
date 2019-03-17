@@ -215,7 +215,7 @@ http://stahlworks.com/dev/index.php?tool=extract
 https://stackoverflow.com/questions/48729215/how-to-check-character-encoding-of-a-file-in-linux
 https://raspberrypi.stackexchange.com/questions/73416/remove-repository-from-sources-list-d
 https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop
-
+https://askubuntu.com/questions/848721/colors-in-terminator
 
 ```
 
