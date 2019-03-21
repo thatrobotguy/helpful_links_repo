@@ -293,9 +293,10 @@ https://www.pjrc.com/teensy/td_libs_Servo.html
 
 ```
 
-Github Help
+Git/Github Help
 ```
 https://github.com/github/gitignore
+https://stackoverflow.com/questions/2421011/output-of-git-branch-in-tree-like-fashion
 
 ```
 Writing Papers in Latex
