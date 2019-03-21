@@ -336,3 +336,8 @@ VPNs
 https://surfshark.com/deals?coupon=sharkspecial&msclkid=76ee080e32f21484c359543af6409bb3&utm_source=bing&utm_medium=cpc&utm_campaign=[S]%20Competitors%20-%20ExpressVPN%20-%20US&utm_term=expressvpn&utm_content=[MDF]%20expressvpn
 
 ```
+IEEE Stuff
+```
+https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf
+
+```
