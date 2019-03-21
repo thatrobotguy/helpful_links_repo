@@ -207,7 +207,11 @@ https://pythonspot.com/python-network-sockets-programming-tutorial/
 https://www.pythoncentral.io/how-to-sort-python-dictionaries-by-key-or-value/
 
 ```
-
+Serial Comms
+```
+https://www.adafruit.com/product/954
+https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/test-and-configure
+```
 Linux Links
 ```
 https://embraceubuntu.com/2005/10/19/list-only-the-directories/
@@ -222,6 +226,7 @@ https://askubuntu.com/questions/848721/colors-in-terminator
 Tensorflow Links
 ```
 http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 ```
 
 Jetson TX2 Links
@@ -252,6 +257,10 @@ https://learn.adafruit.com/assets/35695
 https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
 https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
 https://www.adafruit.com/product/954
+https://www.rs-online.com/designspark/revolution-pi-by-kunbus
+https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update
+https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/the-gpio-connector
+https://pinout.xyz/pinout/pin10_gpio15#
 
 ```
 
@@ -310,6 +319,16 @@ Robots/Robot Arms
 https://homepage.nbm.ntu.edu.tw/index.php/AUSMT/article/view/172
 https://studywolf.wordpress.com/2013/09/02/robot-control-jacobians-velocity-and-force/
 http://andreasaristidou.com/FABRIK.html
+https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11666/#gallery/28234
+
+```
+Franka Emika
+```
+https://erdalpekel.de/?p=55
+https://frankaemika.github.io/docs/franka_ros.html
+https://frankaemika.github.io/docs/control_parameters.html
+https://qz.com/874689/the-10500-robot-arm-that-can-build-its-coworkers/
+https://spectrum.ieee.org/robotics/industrial-robots/franka-a-robot-arm-thats-safe-low-cost-and-can-replicate-itself?utm_source=dlvr.it&utm_medium=twitter
 
 ```
 MatLab Links
@@ -319,6 +338,22 @@ https://www.mathworks.com/help/symbolic/diff.html
 https://www.mathworks.com/matlabcentral/answers/64456-derivative-of-a-function-of-two-variables
 https://www.mathworks.com/help/symbolic/solve.html
 https://tutorial45.com/matlab-plot-colors-and-styles/
+https://www.mathworks.com/help/aerotbx/ug/quatrotate.html
+https://www.mathworks.com/help/stats/prob.normaldistribution.random.html
+https://www.mathworks.com/help/matlab/ref/return.html
+https://www.mathworks.com/help/matlab/ref/cross.html
+https://www.mathworks.com/help/matlab/ref/plot3.html
+https://www.mathworks.com/help/matlab/ref/size.html
+https://stackoverflow.com/questions/25729784/how-to-draw-an-arrow-in-matlab
+http://matlab.izmiran.ru/help/techdoc/ref/size.html
+http://matlab.izmiran.ru/help/techdoc/ref/cat.html
+https://www.mathworks.com/help/matlab/math/creating-and-concatenating-matrices.html
+https://www.mathworks.com/help/matlab/ref/exist.html
+https://www.mathworks.com/help/fixedpoint/ref/atan2.html
+https://www.mathworks.com/help/matlab/logical-operations.html
+https://www.mathworks.com/company/newsletters/articles/matrix-indexing-in-matlab.html
+https://www.tutorialspoint.com/matlab/if_elseif_else_statement.htm
+
 ```
 Angles and their representations
 ```
@@ -332,6 +367,12 @@ https://quaternions.online
 https://community.khronos.org/t/convert-transformation-matrix-to-quaternion/49510
 http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToMatrix/
 https://en.wikipedia.org/wiki/Rotation_matrix
+https://math.stackexchange.com/questions/180418/calculate-rotation-matrix-to-align-vector-a-to-vector-b-in-3d
+https://stackoverflow.com/questions/18558910/direction-vector-to-rotation-matrix
+https://www.mathworks.com/discovery/quaternion.html
+https://gamedev.stackexchange.com/questions/50963/how-to-extract-euler-angles-from-transformation-matrix
+https://stackoverflow.com/questions/1996957/conversion-euler-to-matrix-and-matrix-to-euler
+http://www.euclideanspace.com/maths/geometry/affine/matrix4x4/index.htm
 
 ```
 VPNs
@@ -357,6 +398,10 @@ Cool Companies
 http://rtr.ai
 https://www.hypersciences.com
 https://www.bostondynamics.com/jobs
+https://spectrum.ieee.org/transportation/self-driving/a-selfdriving-car-company-bets-on-mall-shuttles-and-monster-trucks
+https://spectrum.ieee.org/automaton/robotics/humanoids/dlr-super-robust-robot-hand
+https://www.therobotreport.com/4-robotics-trends-watch-vision-expert/
+http://www.icub.org/projects.php
 
 ```
 Other Classes
@@ -370,7 +415,7 @@ https://jsfiddle.net/
 https://www.neobotix-robots.com/mobile-manipulator-mm-500.html
 http://www.theconstructsim.com/rds-ros-development-studio/
 https://quoteinvestigator.com/2012/04/28/shorter-letter/
-
+http://petercorke.com/wordpress/roll-pitch-yaw-angles
 
 ```
 LoL
