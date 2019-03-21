@@ -283,6 +283,7 @@ https://github.com/pawelsky/FlexCAN_Library
 CAD Stuff
 ```
 https://www.youtube.com/playlist?list=PLU238OLHZaihlzrE8nVbTbh2rYHdEP0c0
+https://forum.solidworks.com/thread/114737#604676
 
 ```
 
@@ -327,5 +328,10 @@ http://www.euclideanspace.com/maths/geometry/rotations/conversions/matrixToQuate
 https://quaternions.online
 https://community.khronos.org/t/convert-transformation-matrix-to-quaternion/49510
 http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToMatrix/
+
+```
+VPNs
+```
+https://surfshark.com/deals?coupon=sharkspecial&msclkid=76ee080e32f21484c359543af6409bb3&utm_source=bing&utm_medium=cpc&utm_campaign=[S]%20Competitors%20-%20ExpressVPN%20-%20US&utm_term=expressvpn&utm_content=[MDF]%20expressvpn
 
 ```
