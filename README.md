@@ -270,7 +270,6 @@ https://www.sparkfun.com/products/15036
 https://github.com/arielnh56/ACE128
 https://github.com/luni64/TeensyStep
 
-
 ```
 
 CAN Bus
@@ -358,5 +357,10 @@ Cool Companies
 http://rtr.ai
 https://www.hypersciences.com
 https://www.bostondynamics.com/jobs
+
+```
+Other Classes
+```
+http://people.duke.edu/~kh269/teaching/ece383/schedule.htm
 
 ```
