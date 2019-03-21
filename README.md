@@ -342,3 +342,10 @@ https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guid
 https://pitt.libguides.com/citationhelp/ieee
 
 ```
+Building Websites
+```
+https://www.squarespace.com/pricing
+https://domains.google/#/
+https://cloud.google.com/cloud-services-platform/
+https://cloud.google.com/storage/docs/hosting-static-website
+```
