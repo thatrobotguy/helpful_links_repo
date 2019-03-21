@@ -339,5 +339,6 @@ https://surfshark.com/deals?coupon=sharkspecial&msclkid=76ee080e32f21484c359543a
 IEEE Stuff
 ```
 https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf
+https://pitt.libguides.com/citationhelp/ieee
 
 ```
