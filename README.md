@@ -309,6 +309,8 @@ Robots/Robot Arms
 ```
 https://homepage.nbm.ntu.edu.tw/index.php/AUSMT/article/view/172
 https://studywolf.wordpress.com/2013/09/02/robot-control-jacobians-velocity-and-force/
+http://andreasaristidou.com/FABRIK.html
+
 ```
 MatLab Links
 ```
