@@ -328,6 +328,7 @@ http://www.euclideanspace.com/maths/geometry/rotations/conversions/matrixToQuate
 https://quaternions.online
 https://community.khronos.org/t/convert-transformation-matrix-to-quaternion/49510
 http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToMatrix/
+https://en.wikipedia.org/wiki/Rotation_matrix
 
 ```
 VPNs
