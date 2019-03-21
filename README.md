@@ -367,6 +367,14 @@ http://people.duke.edu/~kh269/teaching/ece383/schedule.htm
 Not sure where to put this stuff
 ```
 https://jsfiddle.net/
+https://www.neobotix-robots.com/mobile-manipulator-mm-500.html
+http://www.theconstructsim.com/rds-ros-development-studio/
+https://quoteinvestigator.com/2012/04/28/shorter-letter/
 
+
+```
+LoL
+```
+https://blogs.mathworks.com/community/2019/02/13/why-you-should-date-someone-who-knows-matlab/
 
 ```
