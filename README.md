@@ -304,7 +304,25 @@ https://tex.stackexchange.com/questions/34580/escape-character-in-latex
 https://tex.stackexchange.com/questions/2229/is-a-period-after-an-abbreviation-the-same-as-an-end-of-sentence-period
 
 ```
-Robot Arms
+Robots/Robot Arms
 ```
 https://homepage.nbm.ntu.edu.tw/index.php/AUSMT/article/view/172
+https://studywolf.wordpress.com/2013/09/02/robot-control-jacobians-velocity-and-force/
+```
+MatLab Links
+```
+https://www.mathworks.com/help/aerotbx/ug/dcm2quat.html
+https://www.mathworks.com/help/symbolic/diff.html
+https://www.mathworks.com/matlabcentral/answers/64456-derivative-of-a-function-of-two-variables
+https://www.mathworks.com/help/symbolic/solve.html
+```
+Angles and their representations
+```
+https://d3cw3dd2w32x2b.cloudfront.net/wp-content/uploads/2012/07/euler-angles1.pdf
+https://en.wikipedia.org/wiki/Conversion_between_quaternions_and_Euler_angles
+https://stackoverflow.com/questions/12435671/quaternion-lookat-function
+https://gamedev.stackexchange.com/questions/15070/orienting-a-model-to-face-a-target
+https://stackoverflow.com/questions/18151845/converting-glmlookat-matrix-to-quaternion-and-back
+http://www.euclideanspace.com/maths/geometry/rotations/conversions/matrixToQuaternion/index.htm
+
 ```
