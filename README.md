@@ -324,5 +324,8 @@ https://stackoverflow.com/questions/12435671/quaternion-lookat-function
 https://gamedev.stackexchange.com/questions/15070/orienting-a-model-to-face-a-target
 https://stackoverflow.com/questions/18151845/converting-glmlookat-matrix-to-quaternion-and-back
 http://www.euclideanspace.com/maths/geometry/rotations/conversions/matrixToQuaternion/index.htm
+https://quaternions.online
+https://community.khronos.org/t/convert-transformation-matrix-to-quaternion/49510
+http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToMatrix/
 
 ```
