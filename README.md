@@ -316,6 +316,7 @@ https://www.mathworks.com/help/aerotbx/ug/dcm2quat.html
 https://www.mathworks.com/help/symbolic/diff.html
 https://www.mathworks.com/matlabcentral/answers/64456-derivative-of-a-function-of-two-variables
 https://www.mathworks.com/help/symbolic/solve.html
+https://tutorial45.com/matlab-plot-colors-and-styles/
 ```
 Angles and their representations
 ```
