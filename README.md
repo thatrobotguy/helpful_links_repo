@@ -320,6 +320,7 @@ https://homepage.nbm.ntu.edu.tw/index.php/AUSMT/article/view/172
 https://studywolf.wordpress.com/2013/09/02/robot-control-jacobians-velocity-and-force/
 http://andreasaristidou.com/FABRIK.html
 https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11666/#gallery/28234
+https://smartech.gatech.edu/bitstream/handle/1853/50782/ur_kin_tech_report_1.pdf
 
 ```
 Franka Emika
