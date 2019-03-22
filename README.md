@@ -416,7 +416,8 @@ https://www.neobotix-robots.com/mobile-manipulator-mm-500.html
 http://www.theconstructsim.com/rds-ros-development-studio/
 https://quoteinvestigator.com/2012/04/28/shorter-letter/
 http://petercorke.com/wordpress/roll-pitch-yaw-angles
-
+http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
+https://erdalpekel.de/
 ```
 LoL
 ```
