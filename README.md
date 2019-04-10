@@ -419,6 +419,7 @@ https://quoteinvestigator.com/2012/04/28/shorter-letter/
 http://petercorke.com/wordpress/roll-pitch-yaw-angles
 http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 https://erdalpekel.de/
+https://gimsonrobotics.co.uk/categories/linear-actuators
 ```
 LoL
 ```
