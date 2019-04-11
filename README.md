@@ -433,3 +433,9 @@ Ubuntu Real Time
 https://liquorix.net/
 
 ```
+Robot Dynamics
+```
+https://www.mathworks.com/matlabcentral/fileexchange/23037-lagrange-s-equations
+http://motion.me.ucsb.edu/pdf/2004a-zb.pdf
+http://www.diag.uniroma1.it/~deluca/rob2_en/03_LagrangianDynamics_1.pdf
+```
