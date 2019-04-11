@@ -355,7 +355,8 @@ https://www.mathworks.com/help/fixedpoint/ref/atan2.html
 https://www.mathworks.com/help/matlab/logical-operations.html
 https://www.mathworks.com/company/newsletters/articles/matrix-indexing-in-matlab.html
 https://www.tutorialspoint.com/matlab/if_elseif_else_statement.htm
-
+https://www.mathworks.com/matlabcentral/answers/102597-how-can-i-solve-the-euler-lagrange-equation-in-the-symbolic-toolbox-5-3-r2009b
+https://www.mathworks.com/matlabcentral/fileexchange/23037-lagrange-s-equations
 ```
 Angles and their representations
 ```
