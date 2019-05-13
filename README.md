@@ -431,6 +431,7 @@ https://blogs.mathworks.com/community/2019/02/13/why-you-should-date-someone-who
 Ubuntu Real Time
 ```
 https://liquorix.net/
+https://askubuntu.com/questions/72964/how-can-i-install-a-realtime-kernel
 
 ```
 Robot Dynamics
