@@ -432,7 +432,8 @@ Ubuntu Real Time
 ```
 https://liquorix.net/
 https://askubuntu.com/questions/72964/how-can-i-install-a-realtime-kernel
-
+https://forum.level1techs.com/t/linux-realtime-kernel-nvidia-drivers/137427/1
+https://forum.level1techs.com/t/linux-realtime-kernel-nvidia-drivers/137427
 ```
 Robot Dynamics
 ```
