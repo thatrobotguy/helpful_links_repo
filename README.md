@@ -447,4 +447,6 @@ https://www.youtube.com/watch?v=Lt6UDcBl1AE
 https://stackoverflow.com/questions/3476779/how-to-get-the-touch-position-in-android
 https://inducesmile.com/android/how-to-get-android-screen-size-in-pixels-and-inches-programmatically/
 https://stackoverflow.com/questions/432037/how-do-i-center-text-horizontally-and-vertically-in-a-textview
+https://stackoverflow.com/questions/11243867/android-last-line-of-textview-cut-off
+
 ```
