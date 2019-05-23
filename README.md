@@ -456,4 +456,10 @@ https://stackoverflow.com/questions/24570916/add-external-libraries-to-cmakelist
 http://www.ciaraldi.com/cyber/contact.shtml
 https://stackoverflow.com/questions/15449949/cmake-can-not-find-include-files
 https://stackoverflow.com/questions/31037882/whats-the-cmake-syntax-to-set-and-use-variables
+https://stackoverflow.com/questions/40223903/cmake-how-to-include-headers-without-sources
+
+```
+Ubuntu tricks
+```
+http://manpages.ubuntu.com/manpages/precise/en/man1/tree.1.html
 ```
