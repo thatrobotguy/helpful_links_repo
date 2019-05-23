@@ -450,3 +450,10 @@ https://stackoverflow.com/questions/432037/how-do-i-center-text-horizontally-and
 https://stackoverflow.com/questions/11243867/android-last-line-of-textview-cut-off
 
 ```
+CMake and Cpp
+```
+https://stackoverflow.com/questions/24570916/add-external-libraries-to-cmakelist-txt-c
+http://www.ciaraldi.com/cyber/contact.shtml
+https://stackoverflow.com/questions/15449949/cmake-can-not-find-include-files
+https://stackoverflow.com/questions/31037882/whats-the-cmake-syntax-to-set-and-use-variables
+```
