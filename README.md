@@ -457,6 +457,9 @@ http://www.ciaraldi.com/cyber/contact.shtml
 https://stackoverflow.com/questions/15449949/cmake-can-not-find-include-files
 https://stackoverflow.com/questions/31037882/whats-the-cmake-syntax-to-set-and-use-variables
 https://stackoverflow.com/questions/40223903/cmake-how-to-include-headers-without-sources
+https://cmake.org/pipermail/cmake/2014-December/059248.html
+https://stackoverflow.com/questions/45933732/how-to-specify-a-compiler-in-cmake
+https://stackoverflow.com/questions/31037882/whats-the-cmake-syntax-to-set-and-use-variables
 
 ```
 Ubuntu tricks
