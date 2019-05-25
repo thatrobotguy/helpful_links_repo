@@ -462,6 +462,11 @@ https://stackoverflow.com/questions/45933732/how-to-specify-a-compiler-in-cmake
 https://stackoverflow.com/questions/31037882/whats-the-cmake-syntax-to-set-and-use-variables
 https://cmake.org/cmake/help/latest/command/target_include_directories.html#command:target_include_directories
 https://cmake.org/cmake/help/latest/command/include_directories.html
+https://brendanwhitfield.wordpress.com/2015/02/26/using-cmake-with-sdl2/
+https://github.com/brendan-w/collector/blob/master/cmake/FindSDL2.cmake
+https://stackoverflow.com/questions/33062728/cmake-link-shared-library-on-windows
+https://www.cprogramming.com/tutorial/sdl/setup.html
+https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/e1c2f6fc-badf-4aff-922e-eefb8c0f52cd/linking-windows-libs-to-dll-with-cmake-and-msvc
 
 ```
 Ubuntu tricks
