@@ -279,7 +279,7 @@ https://www.sparkfun.com/products/15036
 https://github.com/arielnh56/ACE128
 https://www.sparkfun.com/products/15036
 https://github.com/luni64/TeensyStep
-
+https://github.com/sstaub/Ethernet3
 ```
 
 CAN Bus
@@ -472,4 +472,6 @@ https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/e1c2f6fc-badf-4aff
 Ubuntu tricks
 ```
 http://manpages.ubuntu.com/manpages/precise/en/man1/tree.1.html
+https://en.wikipedia.org/wiki/MAC_spoofing
+
 ```
