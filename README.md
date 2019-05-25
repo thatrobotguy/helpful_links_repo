@@ -478,4 +478,6 @@ https://en.wikipedia.org/wiki/MAC_spoofing
 Electronics
 ```
 http://www.electronics-lab.com
+https://www.pjrc.com/store/wiz820_sd_adaptor.html
+
 ```
