@@ -481,3 +481,8 @@ http://www.electronics-lab.com
 https://www.pjrc.com/store/wiz820_sd_adaptor.html
 https://www.wiznet.io/product-item/WIZwiki-W7500/
 ```
+Google and protobufs
+```
+https://developer.android.com/samples/
+https://developer.android.com/guide
+```
