@@ -136,6 +136,11 @@ https://stackoverflow.com/questions/33557497/c-reading-in-a-file-ignoring-commas
 https://stackoverflow.com/questions/26127075/how-to-return-the-directory-of-the-cpp-file
 https://stackoverflow.com/questions/15344714/convert-command-line-argument-to-string
 https://www.learncpp.com/cpp-tutorial/713-command-line-arguments/
+https://en.cppreference.com/w/cpp/language/class
+https://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c
+https://en.cppreference.com/w/cpp/chrono/system_clock/now
+https://stackoverflow.com/questions/14391327/how-to-get-duration-as-int-millis-and-float-seconds-from-chrono
+https://stackoverflow.com/questions/14315497/how-to-get-current-date-time-of-the-system-in-seconds
 
 ```
 
@@ -495,4 +500,8 @@ https://stackoverflow.com/questions/22539779/how-to-tell-if-jre-or-jdk-is-instal
 https://stackoverflow.com/questions/14529720/how-to-make-jni-h-be-found
 https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
 
+```
+VS Code Links
+```
+https://stackoverflow.com/questions/29953479/multiple-cursors-in-visual-studio-code
 ```
