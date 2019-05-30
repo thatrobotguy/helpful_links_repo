@@ -517,7 +517,8 @@ https://stackoverflow.com/questions/14529720/how-to-make-jni-h-be-found
 https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
 https://stackoverflow.com/questions/39964718/virtual-joystick-in-android-sdk
 https://github.com/controlwear/virtual-joystick-android
-
+https://www.quora.com/How-can-I-connect-CAN-Bus-to-a-Java-interface
+https://github.com/entropia/libsocket-can-java/blob/master/src/de/entropia/can/CanSocket.java
 ```
 VS Code Links
 ```
