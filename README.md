@@ -473,7 +473,7 @@ Ubuntu tricks
 ```
 http://manpages.ubuntu.com/manpages/precise/en/man1/tree.1.html
 https://en.wikipedia.org/wiki/MAC_spoofing
-
+https://www.cyberciti.biz/faq/howto-check-if-a-directory-exists-in-a-bash-shellscript/
 ```
 Electronics
 ```
