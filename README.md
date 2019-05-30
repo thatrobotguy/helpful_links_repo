@@ -515,6 +515,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-ge
 https://stackoverflow.com/questions/22539779/how-to-tell-if-jre-or-jdk-is-installed
 https://stackoverflow.com/questions/14529720/how-to-make-jni-h-be-found
 https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
+https://stackoverflow.com/questions/39964718/virtual-joystick-in-android-sdk
+https://github.com/controlwear/virtual-joystick-android
 
 ```
 VS Code Links
