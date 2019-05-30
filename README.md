@@ -118,7 +118,6 @@ https://wiki.ros.org/roslaunch/XML
 https://wiki.ros.org/roslaunch
 https://www.clearpathrobotics.com/assets/guides/ros/ROS%20Parameter%20Server.html
 
-
 ```
 
 CPP links
@@ -146,6 +145,18 @@ https://en.cppreference.com/w/cpp/language/static_cast
 http://www.cplusplus.com/reference/vector/vector/at/
 https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm
 https://www.cprogramming.com/tutorial/modulus.html
+https://stackoverflow.com/questions/8621507/including-header-files-from-different-directories
+https://stackoverflow.com/questions/6884983/how-to-include-a-file-from-another-folder
+https://stackoverflow.com/questions/12573816/what-is-an-undefined-reference-unresolved-external-symbol-error-and-how-do-i-fix
+https://caiorss.github.io/C-Cpp-Notes/compiler-flags-options.html
+https://stackoverflow.com/questions/22738979/c-include-with-full-path
+https://en.cppreference.com/w/cpp/preprocessor/include
+https://stackoverflow.com/questions/9126997/fatal-error-string-no-such-file-or-directory-compilation-terminated
+https://latedev.wordpress.com/2013/02/02/common-c-error-messages-1-no-such-file-or-directory/
+https://stackoverflow.com/questions/10112445/namespaces-not-found-by-the-compiler
+https://stackoverflow.com/questions/13467072/c-boost-undefined-reference-to-boostsystemgeneric-category
+https://stackoverflow.com/questions/28597351/how-do-i-add-a-library-path-in-cmake
+https://stackoverflow.com/questions/13703647/how-to-properly-add-include-directories-with-cmake
 
 ```
 
