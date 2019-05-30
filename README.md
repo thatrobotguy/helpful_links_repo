@@ -141,6 +141,11 @@ https://stackoverflow.com/questions/997946/how-to-get-current-time-and-date-in-c
 https://en.cppreference.com/w/cpp/chrono/system_clock/now
 https://stackoverflow.com/questions/14391327/how-to-get-duration-as-int-millis-and-float-seconds-from-chrono
 https://stackoverflow.com/questions/14315497/how-to-get-current-date-time-of-the-system-in-seconds
+https://stackoverflow.com/questions/13339260/how-to-fix-c-compiler-error-cannot-convert-type-to-const-type
+https://en.cppreference.com/w/cpp/language/static_cast
+http://www.cplusplus.com/reference/vector/vector/at/
+https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm
+https://www.cprogramming.com/tutorial/modulus.html
 
 ```
 
@@ -504,4 +509,8 @@ https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
 VS Code Links
 ```
 https://stackoverflow.com/questions/29953479/multiple-cursors-in-visual-studio-code
+```
+Git links
+```
+https://stackoverflow.com/questions/19023550/how-do-i-add-files-without-dots-in-them-all-extension-less-files-to-the-gitign
 ```
