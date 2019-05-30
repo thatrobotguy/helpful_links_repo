@@ -488,3 +488,8 @@ Google and protobufs
 https://developer.android.com/samples/
 https://developer.android.com/guide
 ```
+Java
+```
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+
+```
