@@ -523,6 +523,13 @@ Google and protobufs
 https://developer.android.com/samples/
 https://developer.android.com/guide
 https://stackoverflow.com/questions/32823563/using-cmake-to-create-protobuf-grpc-cc-files
+https://stackoverflow.com/questions/16736819/protobuf-generate-cpp-during-creation-of-cmake-files
+
+```
+
+CAN bus
+```
+https://github.com/HubertD/candleLight_fw
 
 ```
 Java
