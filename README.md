@@ -159,6 +159,10 @@ https://stackoverflow.com/questions/28597351/how-do-i-add-a-library-path-in-cmak
 https://stackoverflow.com/questions/13703647/how-to-properly-add-include-directories-with-cmake
 
 ```
+Python links
+```
+https://pythonhosted.org/pyserial/#
+```
 
 OpenCV links
 ```
