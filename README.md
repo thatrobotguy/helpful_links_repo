@@ -157,6 +157,8 @@ https://stackoverflow.com/questions/10112445/namespaces-not-found-by-the-compile
 https://stackoverflow.com/questions/13467072/c-boost-undefined-reference-to-boostsystemgeneric-category
 https://stackoverflow.com/questions/28597351/how-do-i-add-a-library-path-in-cmake
 https://stackoverflow.com/questions/13703647/how-to-properly-add-include-directories-with-cmake
+https://stackoverflow.com/questions/1641182/how-can-i-catch-a-ctrl-c-event
+
 
 ```
 Python links
