@@ -321,7 +321,7 @@ CAN Bus
 ```
 https://store.protofusion.org/product/canable-pro/
 https://github.com/pawelsky/FlexCAN_Library
-
+https://github.com/normaldotcom/cantact-fw/
 ```
 
 CAD Stuff
