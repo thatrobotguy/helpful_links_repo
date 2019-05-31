@@ -163,6 +163,16 @@ Python links
 ```
 https://pythonhosted.org/pyserial/#
 ```
+Raspberry Pi (RasPi/Raspi) links
+```
+https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
+https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
+https://pythonhosted.org/pyserial/shortintro.html#readline
+https://stackoverflow.com/questions/20772110/raspberry-pi-uart-serial-wont-work
+https://raspberrypi.stackexchange.com/questions/12246/why-does-usb-port-enumeration-change
+https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
+
+```
 
 OpenCV links
 ```
