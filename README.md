@@ -304,7 +304,6 @@ Java Links
 https://blog.appoptics.com/introduction-to-java-threadlocal-storage/?utm_source=pocket&utm_medium=cpc&utm_content=blog4
 https://github.com/WPIRoboticsProjects/GRIP/releases/tag/v1.5.2
 
-
 ```
 Arduino Libraries
 ```
@@ -322,6 +321,9 @@ CAN Bus
 https://store.protofusion.org/product/canable-pro/
 https://github.com/pawelsky/FlexCAN_Library
 https://github.com/normaldotcom/cantact-fw/
+https://github.com/normaldotcom/cangaroo/
+https://github.com/HubertD/candleLight_fw
+
 ```
 
 CAD Stuff
@@ -529,11 +531,6 @@ https://stackoverflow.com/questions/48911254/undefined-reference-to-google-proto
 
 ```
 
-CAN bus
-```
-https://github.com/HubertD/candleLight_fw
-
-```
 Java
 ```
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
