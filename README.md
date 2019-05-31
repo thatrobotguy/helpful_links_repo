@@ -323,6 +323,11 @@ https://github.com/pawelsky/FlexCAN_Library
 https://github.com/normaldotcom/cantact-fw/
 https://github.com/normaldotcom/cangaroo/
 https://github.com/HubertD/candleLight_fw
+http://www.armadeus.org/wiki/index.php?title=CAN_bus_Linux_driver
+https://wiki.linklayer.com/index.php/SocketCAN
+https://en.wikipedia.org/wiki/SocketCAN
+https://www.elinux.org/CAN_Bus
+http://skpang.co.uk/blog/archives/1199
 
 ```
 
