@@ -524,6 +524,8 @@ https://developer.android.com/samples/
 https://developer.android.com/guide
 https://stackoverflow.com/questions/32823563/using-cmake-to-create-protobuf-grpc-cc-files
 https://stackoverflow.com/questions/16736819/protobuf-generate-cpp-during-creation-of-cmake-files
+https://developers.google.com/protocol-buffers/docs/cpptutorial
+https://stackoverflow.com/questions/48911254/undefined-reference-to-google-protobuf?noredirect=1
 
 ```
 
