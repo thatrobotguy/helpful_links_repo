@@ -176,6 +176,7 @@ https://stackoverflow.com/questions/22184403/how-to-cast-the-size-t-to-double-or
 Google protobufs
 ```
 https://developers.google.com/protocol-buffers/docs/proto3
+https://blog.conan.io/2019/03/06/Serializing-your-data-with-Protobuf.html
 https://stackoverflow.com/questions/30124264/undefined-reference-to-googleprotobufinternalempty-string-abicxx11
 https://stackoverflow.com/questions/10010398/how-to-link-google-protobuf-libraries-via-cmake-on-linux
 https://developers.google.com/protocol-buffers/docs/cpptutorial
