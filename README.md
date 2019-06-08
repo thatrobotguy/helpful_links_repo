@@ -170,6 +170,11 @@ https://developers.google.com/protocol-buffers/docs/cpptutorial
 https://github.com/protocolbuffers/protobuf/tree/master/src
 https://stackoverflow.com/questions/1834434/how-to-use-protocol-buffers
 https://developers.google.com/protocol-buffers/docs/reference/cpp/
+https://biicode-docs.readthedocs.io/c++/examples/zmq_protobuf.html
+http://www.yeolar.com/note/2014/04/12/protobuf-cpp-generated/
+https://stackoverflow.com/questions/10404027/cant-compile-example-from-google-protocol-buffers
+https://stackoverflow.com/questions/55145216/c-protobuf-where-are-all-the-methods-in-my-generated-classes
+https://stackoverflow.com/questions/56406595/no-valid-method-for-accessing-or-setting-values-in-protobuf-class/56411892#56411892
 
 ```
 Python links
