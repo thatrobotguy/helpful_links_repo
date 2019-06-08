@@ -158,7 +158,18 @@ https://stackoverflow.com/questions/13467072/c-boost-undefined-reference-to-boos
 https://stackoverflow.com/questions/28597351/how-do-i-add-a-library-path-in-cmake
 https://stackoverflow.com/questions/13703647/how-to-properly-add-include-directories-with-cmake
 https://stackoverflow.com/questions/1641182/how-can-i-catch-a-ctrl-c-event
-
+https://stackoverflow.com/questions/9880642/c-class-methods
+https://stackoverflow.com/questions/6978241/undefined-reference-to-in-g-cpp
+https://stackoverflow.com/questions/877523/error-request-for-member-in-which-is-of-non-class-type
+```
+Google protobufs
+```
+https://stackoverflow.com/questions/30124264/undefined-reference-to-googleprotobufinternalempty-string-abicxx11
+https://stackoverflow.com/questions/10010398/how-to-link-google-protobuf-libraries-via-cmake-on-linux
+https://developers.google.com/protocol-buffers/docs/cpptutorial
+https://github.com/protocolbuffers/protobuf/tree/master/src
+https://stackoverflow.com/questions/1834434/how-to-use-protocol-buffers
+https://developers.google.com/protocol-buffers/docs/reference/cpp/
 
 ```
 Python links
