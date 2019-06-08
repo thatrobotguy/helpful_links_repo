@@ -193,7 +193,7 @@ https://stackoverflow.com/questions/55145216/c-protobuf-where-are-all-the-method
 https://stackoverflow.com/questions/56406595/no-valid-method-for-accessing-or-setting-values-in-protobuf-class/56411892#56411892
 Proto2 link
 https://vorbrodt.blog/2019/03/10/protocol-buffers-or-how-to-serialize-data/
-
+http://www.thomaswhitton.com/blog/2013/07/03/binary-message-format-c-plus-plus-examples/
 ```
 Python links
 ```
