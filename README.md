@@ -186,6 +186,8 @@ http://www.yeolar.com/note/2014/04/12/protobuf-cpp-generated/
 https://stackoverflow.com/questions/10404027/cant-compile-example-from-google-protocol-buffers
 https://stackoverflow.com/questions/55145216/c-protobuf-where-are-all-the-methods-in-my-generated-classes
 https://stackoverflow.com/questions/56406595/no-valid-method-for-accessing-or-setting-values-in-protobuf-class/56411892#56411892
+Proto2 link
+https://vorbrodt.blog/2019/03/10/protocol-buffers-or-how-to-serialize-data/
 
 ```
 Python links
@@ -240,8 +242,6 @@ https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
 http://opencvpython.blogspot.com/2012/07/background-extraction-using-running.html
 https://www.programcreek.com/python/example/89364/cv2.accumulateWeighted
-
-
 ```
 
 Pixy 2 Camera
@@ -269,7 +269,6 @@ https://www.pygame.org/docs/ref/joystick.html
 https://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package
 https://pythonspot.com/python-network-sockets-programming-tutorial/
 https://www.pythoncentral.io/how-to-sort-python-dictionaries-by-key-or-value/
-
 ```
 Serial Comms
 ```
@@ -284,21 +283,16 @@ https://stackoverflow.com/questions/48729215/how-to-check-character-encoding-of-
 https://raspberrypi.stackexchange.com/questions/73416/remove-repository-from-sources-list-d
 https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop
 https://askubuntu.com/questions/848721/colors-in-terminator
-
 ```
-
 Tensorflow Links
 ```
 http://www.bitbionic.com/2017/08/18/run-your-keras-models-in-c-tensorflow/
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 ```
-
 Jetson TX2 Links
 ```
 https://devtalk.nvidia.com/default/topic/1025010/jetson-tx2/how-to-use-can-on-jetson-tx2-/
-
 ```
-
 Hardware Links
 ```
 http://www.mercotac.com/index.html
@@ -306,9 +300,7 @@ https://sdl.beuc.net/sdl.wiki/Handling_Joysticks
 https://github.com/luni64/TeensyStep
 https://www.panucatt.com/product_p/sd8825.htm
 http://files.panucatt.com/datasheets/sd8825_user_guide.pdf
-
 ```
-
 Raspberry Pi Links
 ```
 https://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/
@@ -333,7 +325,7 @@ Java Links
 https://blog.appoptics.com/introduction-to-java-threadlocal-storage/?utm_source=pocket&utm_medium=cpc&utm_content=blog4
 https://github.com/WPIRoboticsProjects/GRIP/releases/tag/v1.5.2
 http://ormlite.com
-
+https://stackoverflow.com/questions/2340730/are-there-c-equivalents-for-the-protocol-buffers-delimited-i-o-functions-in-ja/22927149#22927149
 ```
 Arduino Libraries
 ```
