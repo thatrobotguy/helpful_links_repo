@@ -161,6 +161,17 @@ https://stackoverflow.com/questions/1641182/how-can-i-catch-a-ctrl-c-event
 https://stackoverflow.com/questions/9880642/c-class-methods
 https://stackoverflow.com/questions/6978241/undefined-reference-to-in-g-cpp
 https://stackoverflow.com/questions/877523/error-request-for-member-in-which-is-of-non-class-type
+https://stackoverflow.com/questions/18516866/c-how-can-i-send-an-object-via-socket
+https://www.bogotobogo.com/cplusplus/sockets_server_client.php
+https://stackoverflow.com/questions/20180874/how-to-get-length-of-a-string-using-strlen-function
+https://stackoverflow.com/questions/502856/whats-the-difference-between-size-t-and-int-in-c
+https://stackoverflow.com/questions/2342162/stdstring-formatting-like-sprintf
+https://stackoverflow.com/questions/13294067/how-to-convert-string-to-char-array-in-c
+https://stackoverflow.com/questions/25604885/how-to-convert-a-string-to-const-void-in-c
+https://www.geeksforgeeks.org/socket-programming-cc/
+https://stackoverflow.com/questions/20390008/how-to-convert-stdstring-to-const-char-in-c
+https://stackoverflow.com/questions/22184403/how-to-cast-the-size-t-to-double-or-int-chttps://stackoverflow.com/questions/20984220/invalid-conversion-from-const-char-to-char
+
 ```
 Google protobufs
 ```
