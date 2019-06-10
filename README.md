@@ -573,6 +573,7 @@ https://stackoverflow.com/questions/39964718/virtual-joystick-in-android-sdk
 https://github.com/controlwear/virtual-joystick-android
 https://www.quora.com/How-can-I-connect-CAN-Bus-to-a-Java-interface
 https://github.com/entropia/libsocket-can-java/blob/master/src/de/entropia/can/CanSocket.java
+https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
 ```
 VS Code Links
 ```
