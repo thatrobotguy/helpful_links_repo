@@ -474,7 +474,7 @@ https://spectrum.ieee.org/transportation/self-driving/a-selfdriving-car-company-
 https://spectrum.ieee.org/automaton/robotics/humanoids/dlr-super-robust-robot-hand
 https://www.therobotreport.com/4-robotics-trends-watch-vision-expert/
 http://www.icub.org/projects.php
-
+https://hdrobotic.com
 ```
 Other Classes
 ```
