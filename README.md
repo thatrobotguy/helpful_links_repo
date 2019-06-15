@@ -173,6 +173,7 @@ https://stackoverflow.com/questions/20390008/how-to-convert-stdstring-to-const-c
 https://stackoverflow.com/questions/22184403/how-to-cast-the-size-t-to-double-or-int-chttps://stackoverflow.com/questions/20984220/invalid-conversion-from-const-char-to-char
 https://stackoverflow.com/questions/10227005/how-to-check-if-find-package-found-the-package-boost
 https://pocoproject.org/
+https://stackoverflow.com/questions/12919081/gcc-g-no-such-file-or-directory
 ```
 Google protobufs
 ```
@@ -538,6 +539,7 @@ https://github.com/brendan-w/collector/blob/master/cmake/FindSDL2.cmake
 https://stackoverflow.com/questions/33062728/cmake-link-shared-library-on-windows
 https://www.cprogramming.com/tutorial/sdl/setup.html
 https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/e1c2f6fc-badf-4aff-922e-eefb8c0f52cd/linking-windows-libs-to-dll-with-cmake-and-msvc
+https://cmake.org/cmake/help/latest/command/target_link_libraries.html
 
 ```
 Ubuntu tricks
