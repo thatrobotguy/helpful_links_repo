@@ -87,9 +87,7 @@ https://websiteforstudents.com/setup-openssh-password-authentication-ubuntu-17-0
 http://library.isr.ist.utl.pt/docs/roswiki/image_transport.html
 https://wiki.ros.org/rospy_tutorials/Tutorials
 https://wiki.ros.org/rospy_tutorials/Tutorials/WritingImagePublisherSubscriber
-
 ```
-
 ROS Links
 ```
 https://github.com/clubcapra/seagoatvision_ros/blob/master/scripts/image_rotate_node.py
@@ -117,9 +115,7 @@ https://wiki.ros.org/roslaunch/XML/arg
 https://wiki.ros.org/roslaunch/XML
 https://wiki.ros.org/roslaunch
 https://www.clearpathrobotics.com/assets/guides/ros/ROS%20Parameter%20Server.html
-
 ```
-
 CPP links
 ```
 https://www.geeksforgeeks.org/multithreading-in-cpp/
@@ -178,6 +174,7 @@ https://stackoverflow.com/questions/11751486/qt-c-aggregate-stdstringstream-ss-h
 https://stackoverflow.com/questions/29200635/convert-float-to-string-with-precision-number-of-decimal-digits-specified
 http://www.cplusplus.com/reference/string/string/operator+=/
 https://stackoverflow.com/questions/39546754/error-no-matching-function-for-call-to-stdmapstd-cxx11basic-stringcha
+https://stackoverflow.com/questions/2125880/convert-float-to-stdstring-in-c
 ```
 Google protobufs
 ```
