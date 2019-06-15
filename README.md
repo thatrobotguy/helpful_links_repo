@@ -174,6 +174,10 @@ https://stackoverflow.com/questions/22184403/how-to-cast-the-size-t-to-double-or
 https://stackoverflow.com/questions/10227005/how-to-check-if-find-package-found-the-package-boost
 https://pocoproject.org/
 https://stackoverflow.com/questions/12919081/gcc-g-no-such-file-or-directory
+https://stackoverflow.com/questions/11751486/qt-c-aggregate-stdstringstream-ss-has-incomplete-type-and-cannot-be-define
+https://stackoverflow.com/questions/29200635/convert-float-to-string-with-precision-number-of-decimal-digits-specified
+http://www.cplusplus.com/reference/string/string/operator+=/
+https://stackoverflow.com/questions/39546754/error-no-matching-function-for-call-to-stdmapstd-cxx11basic-stringcha
 ```
 Google protobufs
 ```
