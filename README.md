@@ -172,6 +172,7 @@ https://www.geeksforgeeks.org/socket-programming-cc/
 https://stackoverflow.com/questions/20390008/how-to-convert-stdstring-to-const-char-in-c
 https://stackoverflow.com/questions/22184403/how-to-cast-the-size-t-to-double-or-int-chttps://stackoverflow.com/questions/20984220/invalid-conversion-from-const-char-to-char
 https://stackoverflow.com/questions/10227005/how-to-check-if-find-package-found-the-package-boost
+https://pocoproject.org/
 ```
 Google protobufs
 ```
