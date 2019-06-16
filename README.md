@@ -602,4 +602,13 @@ https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
 https://devblogs.nvidia.com/building-cuda-applications-cmake/
 https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html
 https://developer.nvidia.com/cuda-code-samples
+https://cmake.org/cmake/help/latest/module/FindCUDA.html
+https://devblogs.nvidia.com/separate-compilation-linking-cuda-device-code/
+https://www.mathworks.com/help/parallel-computing/run-cuda-or-ptx-code-on-gpu.html;jsessionid=243cbbc649257725718326e5769d
+https://www.apriorit.com/dev-blog/444-tips-of-working-with-cuda
+https://codeyarns.com/tag/cmake/
+https://www.llvm.org/docs/CompileCudaWithLLVM.html
+https://rayglover-ibm.github.io/cuda-bindings/
+https://www.queryxchange.com/q/27_43011089/cmake-add-all-cuda-libraries/
+
 ```
