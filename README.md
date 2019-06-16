@@ -596,3 +596,10 @@ Papers
 ```
 https://dl.acm.org/citation.cfm?id=3171279
 ```
+CUDA Cuda NVCC nvcc compiling
+```
+https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
+https://devblogs.nvidia.com/building-cuda-applications-cmake/
+https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html
+https://developer.nvidia.com/cuda-code-samples
+```
