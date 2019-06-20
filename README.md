@@ -175,6 +175,8 @@ https://stackoverflow.com/questions/29200635/convert-float-to-string-with-precis
 http://www.cplusplus.com/reference/string/string/operator+=/
 https://stackoverflow.com/questions/39546754/error-no-matching-function-for-call-to-stdmapstd-cxx11basic-stringcha
 https://stackoverflow.com/questions/2125880/convert-float-to-stdstring-in-c
+https://askubuntu.com/questions/68922/cant-compile-program-that-uses-sdl-after-upgrade-to-11-10-undefined-reference/664005
+
 ```
 Google protobufs
 ```
