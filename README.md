@@ -176,7 +176,7 @@ http://www.cplusplus.com/reference/string/string/operator+=/
 https://stackoverflow.com/questions/39546754/error-no-matching-function-for-call-to-stdmapstd-cxx11basic-stringcha
 https://stackoverflow.com/questions/2125880/convert-float-to-stdstring-in-c
 https://askubuntu.com/questions/68922/cant-compile-program-that-uses-sdl-after-upgrade-to-11-10-undefined-reference/664005
-
+https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protobuf-586b18521f79
 ```
 Google protobufs
 ```
@@ -196,6 +196,7 @@ http://www.yeolar.com/note/2014/04/12/protobuf-cpp-generated/
 https://stackoverflow.com/questions/10404027/cant-compile-example-from-google-protocol-buffers
 https://stackoverflow.com/questions/55145216/c-protobuf-where-are-all-the-methods-in-my-generated-classes
 https://stackoverflow.com/questions/56406595/no-valid-method-for-accessing-or-setting-values-in-protobuf-class/56411892#56411892
+https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protobuf-586b18521f79
 Proto2 link
 https://vorbrodt.blog/2019/03/10/protocol-buffers-or-how-to-serialize-data/
 http://www.thomaswhitton.com/blog/2013/07/03/binary-message-format-c-plus-plus-examples/
