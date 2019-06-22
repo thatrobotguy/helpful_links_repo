@@ -616,5 +616,11 @@ https://codeyarns.com/tag/cmake/
 https://www.llvm.org/docs/CompileCudaWithLLVM.html
 https://rayglover-ibm.github.io/cuda-bindings/
 https://www.queryxchange.com/q/27_43011089/cmake-add-all-cuda-libraries/
-
+https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
+https://stackoverflow.com/questions/34960818/compiling-cu-using-nvcc-in-cmake
+https://cmake.org/cmake/help/v3.5/module/FindCUDA.html
+https://wagonhelm.github.io/articles/2018-03/detecting-cuda-capability-with-cmake
+https://devtalk.nvidia.com/default/topic/416116/cuda-programming-and-performance/cuda-gdb-and-cmake-build-instructions-for-cuda-gdb/
+http://www.saoe.net/blog/generating-64-bit-projects-for-visual-studio-with-cmake/
+https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html
 ```
