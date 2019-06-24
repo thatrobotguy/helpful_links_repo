@@ -298,6 +298,7 @@ https://raspberrypi.stackexchange.com/questions/73416/remove-repository-from-sou
 https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop
 https://askubuntu.com/questions/848721/colors-in-terminator
 https://linuxize.com/post/how-to-list-installed-packages-on-ubuntu/
+https://meetrix.io/blog/aws/changing-default-ubuntu-kernel.html
 ```
 Tensorflow Links
 ```
