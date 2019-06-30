@@ -299,6 +299,10 @@ https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop
 https://askubuntu.com/questions/848721/colors-in-terminator
 https://linuxize.com/post/how-to-list-installed-packages-on-ubuntu/
 https://meetrix.io/blog/aws/changing-default-ubuntu-kernel.html
+https://askubuntu.com/questions/72549/how-to-determine-which-window-manager-is-running
+http://www.terriblesysadmin.com/?p=38
+https://computervisionpoints.com/about-me/
+
 ```
 Tensorflow Links
 ```
