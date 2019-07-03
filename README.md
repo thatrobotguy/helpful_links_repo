@@ -560,6 +560,8 @@ http://manpages.ubuntu.com/manpages/precise/en/man1/tree.1.html
 https://en.wikipedia.org/wiki/MAC_spoofing
 https://www.cyberciti.biz/faq/howto-check-if-a-directory-exists-in-a-bash-shellscript/
 https://www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using-command-line/
+https://askubuntu.com/questions/763584/elantech-touchpad-not-working-on-ubuntu-16-04-and-arch-linux
+https://unix.stackexchange.com/questions/28736/what-does-the-i8042-nomux-1-kernel-option-do-during-booting-of-ubuntu
 
 ```
 Electronics
