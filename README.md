@@ -198,6 +198,7 @@ https://stackoverflow.com/questions/55145216/c-protobuf-where-are-all-the-method
 https://stackoverflow.com/questions/56406595/no-valid-method-for-accessing-or-setting-values-in-protobuf-class/56411892#56411892
 https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protobuf-586b18521f79
 http://blog.ajhodges.com/2011/10/cross-platform-communication-using.html
+http://www.howtobuildsoftware.com/index.php/built-with/protocol-buffers
 ```
 
 When you want to have multiple types of protobuf messages inside of a single message, you can use this technique.
