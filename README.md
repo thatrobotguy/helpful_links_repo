@@ -532,6 +532,10 @@ https://stackoverflow.com/questions/3476779/how-to-get-the-touch-position-in-and
 https://inducesmile.com/android/how-to-get-android-screen-size-in-pixels-and-inches-programmatically/
 https://stackoverflow.com/questions/432037/how-do-i-center-text-horizontally-and-vertically-in-a-textview
 https://stackoverflow.com/questions/11243867/android-last-line-of-textview-cut-off
+https://developer.android.com/ndk/guides/cmake
+https://github.com/controlwear/virtual-joystick-android
+Protocol buffers and Android app dev:
+https://proandroiddev.com/how-to-setup-your-android-app-to-use-protobuf-96132340de5c
 
 ```
 CMake and Cpp
