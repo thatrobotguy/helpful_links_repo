@@ -642,4 +642,5 @@ https://wagonhelm.github.io/articles/2018-03/detecting-cuda-capability-with-cmak
 https://devtalk.nvidia.com/default/topic/416116/cuda-programming-and-performance/cuda-gdb-and-cmake-build-instructions-for-cuda-gdb/
 http://www.saoe.net/blog/generating-64-bit-projects-for-visual-studio-with-cmake/
 https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html
+https://stackoverflow.com/questions/43706755/how-can-i-get-the-nvcc-cuda-compiler-to-optimize-more
 ```
