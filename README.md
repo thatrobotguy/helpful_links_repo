@@ -539,6 +539,10 @@ dfq differential equations DifEq difeq
 http://www.sosmath.com/diffeq/second/nonlineareq/nonlineareq.html
 http://www.sosmath.com/diffeq/first/separable/separable.html
 ```
+State state space
+```
+https://www.youtube.com/watch?v=41HYQG8BjPA
+```
 Android App Dev
 ```
 https://www.youtube.com/watch?v=Lt6UDcBl1AE
@@ -587,7 +591,6 @@ https://www.cyberciti.biz/faq/howto-check-if-a-directory-exists-in-a-bash-shells
 https://www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using-command-line/
 https://askubuntu.com/questions/763584/elantech-touchpad-not-working-on-ubuntu-16-04-and-arch-linux
 https://unix.stackexchange.com/questions/28736/what-does-the-i8042-nomux-1-kernel-option-do-during-booting-of-ubuntu
-
 ```
 Electronics
 ```
