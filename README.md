@@ -532,6 +532,12 @@ Robot Dynamics
 https://www.mathworks.com/matlabcentral/fileexchange/23037-lagrange-s-equations
 http://motion.me.ucsb.edu/pdf/2004a-zb.pdf
 http://www.diag.uniroma1.it/~deluca/rob2_en/03_LagrangianDynamics_1.pdf
+https://studywolf.wordpress.com/2013/09/07/robot-control-3-accounting-for-mass-and-gravity/
+```
+dfq differential equations DifEq difeq
+```
+http://www.sosmath.com/diffeq/second/nonlineareq/nonlineareq.html
+http://www.sosmath.com/diffeq/first/separable/separable.html
 ```
 Android App Dev
 ```
@@ -566,6 +572,7 @@ https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/e1c2f6fc-badf-4aff
 https://cmake.org/cmake/help/latest/command/target_link_libraries.html
 https://stackoverflow.com/questions/45177196/how-to-use-cmake-module-path-correctly-on-windows
 https://stackoverflow.com/questions/11783932/how-do-i-add-a-linker-or-compile-flag-in-a-cmake-file
+https://stackoverflow.com/questions/52394031/cmake-error-include-could-not-find-load-file-googletest
 ```
 SDL2 sdl2 library
 ```
