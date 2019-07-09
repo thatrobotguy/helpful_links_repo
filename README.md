@@ -564,7 +564,9 @@ https://stackoverflow.com/questions/33062728/cmake-link-shared-library-on-window
 https://www.cprogramming.com/tutorial/sdl/setup.html
 https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/e1c2f6fc-badf-4aff-922e-eefb8c0f52cd/linking-windows-libs-to-dll-with-cmake-and-msvc
 https://cmake.org/cmake/help/latest/command/target_link_libraries.html
-
+https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/
+https://stackoverflow.com/questions/45177196/how-to-use-cmake-module-path-correctly-on-windows
+https://stackoverflow.com/questions/11783932/how-do-i-add-a-linker-or-compile-flag-in-a-cmake-file
 ```
 Ubuntu tricks
 ```
@@ -621,6 +623,10 @@ Papers
 ```
 https://dl.acm.org/citation.cfm?id=3171279
 ```
+vcpkg microsoft VCPKG
+```
+https://github.com/Microsoft/vcpkg/issues/703
+```
 CUDA Cuda NVCC nvcc compiling
 ```
 https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
@@ -643,4 +649,8 @@ https://devtalk.nvidia.com/default/topic/416116/cuda-programming-and-performance
 http://www.saoe.net/blog/generating-64-bit-projects-for-visual-studio-with-cmake/
 https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html
 https://stackoverflow.com/questions/43706755/how-can-i-get-the-nvcc-cuda-compiler-to-optimize-more
+https://devblogs.nvidia.com/separate-compilation-linking-cuda-device-code/
+https://devblogs.nvidia.com/building-cuda-applications-cmake/
+
+
 ```
