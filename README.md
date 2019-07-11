@@ -115,6 +115,8 @@ https://wiki.ros.org/roslaunch/XML/arg
 https://wiki.ros.org/roslaunch/XML
 https://wiki.ros.org/roslaunch
 https://www.clearpathrobotics.com/assets/guides/ros/ROS%20Parameter%20Server.html
+ROS2
+https://index.ros.org/doc/ros2/Tutorials/Composition/#ros-1-nodes-vs-nodelets
 ```
 CPP links
 ```
