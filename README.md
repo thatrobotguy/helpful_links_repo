@@ -677,4 +677,12 @@ https://devblogs.nvidia.com/building-cuda-applications-cmake/
 PoCo Poco poco library and info
 ```
 https://pocoproject.org/docs/00100-GuidedTour.html
+https://geeksww.com/tutorials/libraries/openssl/installation/installing_openssl_on_ubuntu_linux.php
+https://osdevlab.blogspot.com/2016/02/how-to-install-websocket-poco-c-library.html
+https://github.com/MDHSRobotics/TeamWiki/wiki/Installing-POCO-library-on-Ubuntu
+https://pocoproject.org/documentation.html
+https://pocoproject.org/docs/00100-GuidedTour.html
+https://github.com/pocoproject/poco
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://pocoproject.org/slides/200-Network.pdf
+
 ```
