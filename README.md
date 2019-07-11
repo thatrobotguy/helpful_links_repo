@@ -199,6 +199,8 @@ https://stackoverflow.com/questions/56406595/no-valid-method-for-accessing-or-se
 https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protobuf-586b18521f79
 http://blog.ajhodges.com/2011/10/cross-platform-communication-using.html
 http://www.howtobuildsoftware.com/index.php/built-with/protocol-buffers
+https://godoc.org/github.com/alecthomas/protobuf
+
 ```
 
 When you want to have multiple types of protobuf messages inside of a single message, you can use this technique.
@@ -671,4 +673,8 @@ https://devblogs.nvidia.com/separate-compilation-linking-cuda-device-code/
 https://devblogs.nvidia.com/building-cuda-applications-cmake/
 
 
+```
+PoCo Poco poco library and info
+```
+https://pocoproject.org/docs/00100-GuidedTour.html
 ```
