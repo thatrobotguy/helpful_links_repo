@@ -366,6 +366,8 @@ https://github.com/luni64/TeensyStep
 https://github.com/sstaub/Ethernet3
 Teensy installation
 https://www.pjrc.com/teensy/td_download.html
+Rosserial Installation
+https://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 ```
 
 CAN Bus
