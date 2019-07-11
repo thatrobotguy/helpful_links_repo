@@ -685,3 +685,14 @@ https://github.com/pocoproject/poco
 chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://pocoproject.org/slides/200-Network.pdf
 
 ```
+Dealing with people
+```
+https://getpocket.com/explore/item/how-to-have-difficult-conversations-when-you-don-t-like-conflict?utm_source=pocket-newtab
+https://getpocket.com/explore/item/life-is-math-not-magic?utm_source=pocket-newtab
+https://ideas.ted.com/how-to-excel-at-the-moments-that-matter-in-life-think-like-an-actor/?utm_source=pocket-newtab
+https://getpocket.com/explore/item/how-not-to-bomb-your-offer-negotiation
+https://getpocket.com/explore/item/the-right-way-to-start-a-meeting?utm_source=pocket-newtab
+https://getpocket.com/explore/item/this-ancient-habit-will-maximize-your-focus?utm_source=pocket-newtab
+https://getpocket.com/explore/item/if-your-boss-could-do-your-job-you-re-more-likely-to-be-happy-at-work?utm_source=pocket-newtab
+
+```
