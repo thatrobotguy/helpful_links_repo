@@ -3,16 +3,12 @@ This is the repository that contains links that I have found helpul with some of
 
 Here are the links:
 ```
-http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
 http://wiki.ros.org/cv_bridge/Tutorials/UsingCvBridgeToConvertBetweenROSImagesAndOpenCVImages
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
 http://wiki.ros.org/image_transport#Python_Usage
 https://answers.ros.org/question/99831/publish-file-to-image-topic/
 https://github.com/ros-perception/image_common
 http://wiki.ros.org/image_transport/Tutorials/PublishingImages
-https://github.com/cedricve/raspicam
-https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/
-https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space
 https://answers.ros.org/question/283806/how-to-subscribe-to-a-camera-and-save-image/
 https://answers.ros.org/question/244598/syntax-error-near-unexpected-token-int-mainint-argc-char-argv/
 https://answers.ros.org/question/130651/add-the-installation-prefix-to-cmake_prefix_path/
@@ -31,14 +27,11 @@ http://wiki.ros.org/abb_driver
 https://github.com/stereolabs/zed-ros-wrapper
 https://rosindustrial.org/tech-support
 https://github.com/ros-industrial
-http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
-https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal
 https://www.tensorflow.org/install/pip
 https://answers.ros.org/question/243192/catkin_make-vs-catkin-build/
 http://wiki.ros.org/Industrial/Install
 https://github.com/ros-industrial/industrial_moveit
 https://www.pyimagesearch.com/2015/02/02/just-open-sourced-personal-imutils-package-series-opencv-convenience-functions/
-https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
 https://medium.com/tensorflow/amd-rocm-gpu-support-for-tensorflow-33c78cc6a6cf
 https://help.ubuntu.com/community/NetworkPrintingWithUbuntu
 https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29#rospy_tutorials.2BAC8-Tutorials.2BAC8-WritingPublisherSubscriber.Writing_the_Subscriber_Node
@@ -61,7 +54,6 @@ https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 https://codeyarns.com/2013/10/10/how-to-add-include-directories-in-cmake/
 https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
 http://wiki.ros.org/catkin/CMakeLists.txt
-https://www.geek.com/chips/how-to-tell-how-much-ram-your-raspberry-pi-has-1522529/
 http://wiki.ros.org/Industrial
 http://wiki.ros.org/Industrial/Tutorials#ABB
 https://www.paramiko.org
@@ -204,7 +196,6 @@ http://www.howtobuildsoftware.com/index.php/built-with/protocol-buffers
 https://godoc.org/github.com/alecthomas/protobuf
 
 ```
-
 When you want to have multiple types of protobuf messages inside of a single message, you can use this technique.
 ```
 https://developers.google.com/protocol-buffers/docs/proto3#oneof
@@ -228,7 +219,12 @@ https://pythonhosted.org/pyserial/shortintro.html#readline
 https://stackoverflow.com/questions/20772110/raspberry-pi-uart-serial-wont-work
 https://raspberrypi.stackexchange.com/questions/12246/why-does-usb-port-enumeration-change
 https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3-pi3b-pizerow
-
+https://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/
+https://raspberrypi.stackexchange.com/questions/70/how-to-set-up-swap-space
+Cpp raspi camera
+https://github.com/cedricve/raspicam
+https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
+https://www.geek.com/chips/how-to-tell-how-much-ram-your-raspberry-pi-has-1522529/
 ```
 
 OpenCV links
@@ -673,8 +669,9 @@ https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html
 https://stackoverflow.com/questions/43706755/how-can-i-get-the-nvcc-cuda-compiler-to-optimize-more
 https://devblogs.nvidia.com/separate-compilation-linking-cuda-device-code/
 https://devblogs.nvidia.com/building-cuda-applications-cmake/
-
-
+http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
+http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
+https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal
 ```
 PoCo Poco poco library and info
 ```
