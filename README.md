@@ -418,6 +418,10 @@ https://frankaemika.github.io/docs/control_parameters.html
 https://qz.com/874689/the-10500-robot-arm-that-can-build-its-coworkers/
 https://spectrum.ieee.org/robotics/industrial-robots/franka-a-robot-arm-thats-safe-low-cost-and-can-replicate-itself?utm_source=dlvr.it&utm_medium=twitter
 ```
+ABB robots
+```
+http://rosin-project.eu/tool/abb-libegm
+```
 MatLab Links
 ```
 https://www.mathworks.com/help/aerotbx/ug/dcm2quat.html
