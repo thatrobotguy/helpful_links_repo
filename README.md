@@ -310,7 +310,8 @@ https://meetrix.io/blog/aws/changing-default-ubuntu-kernel.html
 https://askubuntu.com/questions/72549/how-to-determine-which-window-manager-is-running
 http://www.terriblesysadmin.com/?p=38
 https://computervisionpoints.com/about-me/
-
+SSH
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu
 ```
 Tensorflow Links
 ```
