@@ -383,34 +383,30 @@ https://wiki.linklayer.com/index.php/SocketCAN
 https://en.wikipedia.org/wiki/SocketCAN
 https://www.elinux.org/CAN_Bus
 http://skpang.co.uk/blog/archives/1199
-
 ```
-
 CAD Stuff
 ```
 https://www.youtube.com/playlist?list=PLU238OLHZaihlzrE8nVbTbh2rYHdEP0c0
 https://forum.solidworks.com/thread/114737#604676
-
 ```
-
+C++ c++ cpp Cpp get host IP address
+```
+https://stackoverflow.com/questions/13731054/platform-independent-way-to-obtain-ip-address-in-c
+```
 Teensy Stuff
 ```
 https://www.pjrc.com/teensy/td_libs_Servo.html
-
 ```
-
 Git/Github Help
 ```
 https://github.com/github/gitignore
 https://stackoverflow.com/questions/2421011/output-of-git-branch-in-tree-like-fashion
-
 ```
 Writing Papers in Latex
 ```
 http://www.personal.ceu.hu/tex/breaking.htm
 https://tex.stackexchange.com/questions/34580/escape-character-in-latex
 https://tex.stackexchange.com/questions/2229/is-a-period-after-an-abbreviation-the-same-as-an-end-of-sentence-period
-
 ```
 Robots/Robot Arms
 ```
@@ -419,7 +415,6 @@ https://studywolf.wordpress.com/2013/09/02/robot-control-jacobians-velocity-and-
 http://andreasaristidou.com/FABRIK.html
 https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11666/#gallery/28234
 https://smartech.gatech.edu/bitstream/handle/1853/50782/ur_kin_tech_report_1.pdf
-
 ```
 Franka Emika
 ```
@@ -428,7 +423,6 @@ https://frankaemika.github.io/docs/franka_ros.html
 https://frankaemika.github.io/docs/control_parameters.html
 https://qz.com/874689/the-10500-robot-arm-that-can-build-its-coworkers/
 https://spectrum.ieee.org/robotics/industrial-robots/franka-a-robot-arm-thats-safe-low-cost-and-can-replicate-itself?utm_source=dlvr.it&utm_medium=twitter
-
 ```
 MatLab Links
 ```
@@ -473,18 +467,15 @@ https://www.mathworks.com/discovery/quaternion.html
 https://gamedev.stackexchange.com/questions/50963/how-to-extract-euler-angles-from-transformation-matrix
 https://stackoverflow.com/questions/1996957/conversion-euler-to-matrix-and-matrix-to-euler
 http://www.euclideanspace.com/maths/geometry/affine/matrix4x4/index.htm
-
 ```
 VPNs
 ```
 https://surfshark.com/deals?coupon=sharkspecial&msclkid=76ee080e32f21484c359543af6409bb3&utm_source=bing&utm_medium=cpc&utm_campaign=[S]%20Competitors%20-%20ExpressVPN%20-%20US&utm_term=expressvpn&utm_content=[MDF]%20expressvpn
-
 ```
 IEEE Stuff
 ```
 https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf
 https://pitt.libguides.com/citationhelp/ieee
-
 ```
 Building Websites
 ```
@@ -507,7 +498,6 @@ https://hdrobotic.com
 Other Classes
 ```
 http://people.duke.edu/~kh269/teaching/ece383/schedule.htm
-
 ```
 Not sure where to put this stuff
 ```
@@ -523,7 +513,6 @@ https://gimsonrobotics.co.uk/categories/linear-actuators
 LoL
 ```
 https://blogs.mathworks.com/community/2019/02/13/why-you-should-date-someone-who-knows-matlab/
-
 ```
 Ubuntu Real Time
 ```
