@@ -194,7 +194,7 @@ https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protob
 http://blog.ajhodges.com/2011/10/cross-platform-communication-using.html
 http://www.howtobuildsoftware.com/index.php/built-with/protocol-buffers
 https://godoc.org/github.com/alecthomas/protobuf
-
+https://developers.google.com/protocol-buffers/docs/techniques?csw=1
 ```
 When you want to have multiple types of protobuf messages inside of a single message, you can use this technique.
 ```
@@ -265,7 +265,6 @@ https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_v
 http://opencvpython.blogspot.com/2012/07/background-extraction-using-running.html
 https://www.programcreek.com/python/example/89364/cv2.accumulateWeighted
 ```
-
 Pixy 2 Camera
 ```
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:uploading_new_firmware
@@ -274,9 +273,7 @@ https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:teach_pixy_an_object_2
 https://www.youtube.com/watch?v=XdQwZi6l9Ns
 https://docs.pixycam.com/wiki/doku.php?id=wiki:v1:building_libpixyusb_as_a_python_module_on_linux
-
 ```
-
 Python links
 ```
 https://stackoverflow.com/questions/8028036/what-does-this-message-mean-from-cant-read-var-mail-ex48-learn-python-the-h
@@ -346,9 +343,7 @@ https://www.rs-online.com/designspark/revolution-pi-by-kunbus
 https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/the-gpio-connector
 https://pinout.xyz/pinout/pin10_gpio15#
-
 ```
-
 Java Links
 ```
 https://blog.appoptics.com/introduction-to-java-threadlocal-storage/?utm_source=pocket&utm_medium=cpc&utm_content=blog4
@@ -370,7 +365,6 @@ https://www.pjrc.com/teensy/td_download.html
 Rosserial Installation
 https://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 ```
-
 CAN Bus
 ```
 https://store.protofusion.org/product/canable-pro/
@@ -548,7 +542,6 @@ https://developer.android.com/ndk/guides/cmake
 https://github.com/controlwear/virtual-joystick-android
 Protocol buffers and Android app dev:
 https://proandroiddev.com/how-to-setup-your-android-app-to-use-protobuf-96132340de5c
-
 ```
 CMake and Cpp
 ```
@@ -602,7 +595,6 @@ https://developers.google.com/protocol-buffers/docs/cpptutorial
 https://stackoverflow.com/questions/48911254/undefined-reference-to-google-protobuf?noredirect=1
 https://stackoverflow.com/questions/9496101/protocol-buffer-over-socket-in-c
 ```
-
 Java
 ```
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
@@ -673,7 +665,6 @@ https://pocoproject.org/documentation.html
 https://pocoproject.org/docs/00100-GuidedTour.html
 https://github.com/pocoproject/poco
 chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://pocoproject.org/slides/200-Network.pdf
-
 ```
 Dealing with people
 ```
@@ -684,5 +675,10 @@ https://getpocket.com/explore/item/how-not-to-bomb-your-offer-negotiation
 https://getpocket.com/explore/item/the-right-way-to-start-a-meeting?utm_source=pocket-newtab
 https://getpocket.com/explore/item/this-ancient-habit-will-maximize-your-focus?utm_source=pocket-newtab
 https://getpocket.com/explore/item/if-your-boss-could-do-your-job-you-re-more-likely-to-be-happy-at-work?utm_source=pocket-newtab
+```
+Images server socket
+```
+https://stackoverflow.com/questions/20314524/c-opencv-image-sending-through-socket
+https://answers.opencv.org/question/197414/sendreceive-vector-mat-over-socket-cc/
 
 ```
