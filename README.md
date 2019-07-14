@@ -688,3 +688,7 @@ https://stackoverflow.com/questions/20314524/c-opencv-image-sending-through-sock
 https://answers.opencv.org/question/197414/sendreceive-vector-mat-over-socket-cc/
 
 ```
+XML xml editing
+```
+http://sync.ro/
+```
