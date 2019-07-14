@@ -632,8 +632,9 @@ vcpkg microsoft VCPKG
 ```
 https://github.com/Microsoft/vcpkg/issues/703
 ```
-CUDA Cuda NVCC nvcc compiling
+CUDA Cuda NVCC nvcc compiling cuda installation
 ```
+https://askubuntu.com/questions/61396/how-do-i-install-the-nvidia-drivers?
 https://codeyarns.com/2013/09/13/how-to-build-cuda-programs-using-cmake/
 https://devblogs.nvidia.com/building-cuda-applications-cmake/
 https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html
