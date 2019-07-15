@@ -172,6 +172,7 @@ https://stackoverflow.com/questions/2125880/convert-float-to-stdstring-in-c
 https://askubuntu.com/questions/68922/cant-compile-program-that-uses-sdl-after-upgrade-to-11-10-undefined-reference/664005
 https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protobuf-586b18521f79
 https://stackoverflow.com/questions/1641182/how-can-i-catch-a-ctrl-c-event?noredirect=1&lq=1
+https://stackoverflow.com/questions/10954392/reading-protobuf-objects-using-boostasioread-async?
 ```
 Google protobufs
 ```
