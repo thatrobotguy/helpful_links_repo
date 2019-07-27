@@ -722,3 +722,8 @@ https://www.youtube.com/user/SolidWorksComposer
 https://www.youtube.com/watch?v=hXwCE1P02wc
 
 ```
+CPP Cpp cpp and windows Windows
+```
+http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
+
+```
