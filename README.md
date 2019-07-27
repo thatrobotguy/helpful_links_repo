@@ -715,3 +715,10 @@ XML xml editing
 ```
 http://sync.ro/
 ```
+Solidworks solidworks
+```
+https://www.youtube.com/watch?v=3f7C3Cf88Q0
+https://www.youtube.com/user/SolidWorksComposer
+https://www.youtube.com/watch?v=hXwCE1P02wc
+
+```
