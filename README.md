@@ -178,6 +178,7 @@ Learning Cpp
 ```
 https://github.com/petergottschling?tab=repositories
 https://github.com/dev-cafe
+https://www.bfilipek.com/2019/07/detect-overload-from-chars.html
 
 ```
 Google protobufs
