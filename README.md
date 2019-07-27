@@ -174,6 +174,12 @@ https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protob
 https://stackoverflow.com/questions/1641182/how-can-i-catch-a-ctrl-c-event?noredirect=1&lq=1
 https://stackoverflow.com/questions/10954392/reading-protobuf-objects-using-boostasioread-async?
 ```
+Learning Cpp
+```
+https://github.com/petergottschling?tab=repositories
+https://github.com/dev-cafe
+
+```
 Google protobufs
 ```
 https://developers.google.com/protocol-buffers/docs/proto3
