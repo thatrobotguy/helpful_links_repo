@@ -570,7 +570,29 @@ https://cmake.org/cmake/help/latest/command/target_link_libraries.html
 https://stackoverflow.com/questions/45177196/how-to-use-cmake-module-path-correctly-on-windows
 https://stackoverflow.com/questions/11783932/how-do-i-add-a-linker-or-compile-flag-in-a-cmake-file
 https://stackoverflow.com/questions/52394031/cmake-error-include-could-not-find-load-file-googletest
+https://stackoverflow.com/questions/17225121/how-to-use-external-dlls-in-cmake-project
+https://dominoc925.blogspot.com/2016/08/use-cmake-to-help-build-and-use-windows.html
+https://stackoverflow.com/questions/42456284/how-to-link-shared-library-dll-with-cmake-in-windows
+https://stackoverflow.com/questions/8109155/include-opencv-library-dlls-with-cmake
+https://stackoverflow.com/questions/55551536/getting-unresolved-external-symbol-error-with-cmake-and-visual-studio
+https://stackoverflow.com/questions/33062728/cmake-link-shared-library-on-windows
+https://www.codepool.biz/cc-barcode-app-cmake-windows.html
+https://ccavusoglu.github.io/posts/Setting-up-SDL2-and-SDL_gpu-on-Windows-using-CMake/
+https://www.willusher.io/sdl2%20tutorials/2014/03/06/lesson-0-cmake
+https://medium.com/@onur.dundar1/cmake-tutorial-585dd180109b
+https://www.selectiveintellect.net/blog/2016/7/29/using-cmake-to-add-third-party-libraries-to-your-project-1
+https://bytefreaks.net/programming-2/manually-set-the-cmake-output-folder
+http://techminded.net/blog/modular-c-projects-with-cmake.html
+https://joe-antognini.github.io/machine-learning/windows-tf-project
+http://gernotklingler.com/blog/creating-using-shared-libraries-different-compilers-different-operating-systems/
+https://perso.uclouvain.be/allan.barrea/opencv/cmake_config.html
+
 ```
+Older cmake:
+```
+https://cmake.org/pipermail/cmake/2008-August/023194.html
+```
+
 SDL2 sdl2 library
 ```
 https://www.youtube.com/watch?v=2wlnA2YvxzY
