@@ -733,3 +733,10 @@ CPP Cpp cpp and windows Windows
 http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
 
 ```
+Windows windows paths
+```
+https://stackoverflow.com/questions/21289762/remove-unwanted-path-name-from-path-variable-via-batch
+https://superuser.com/questions/387619/overcoming-the-1024-character-limit-with-setx
+https://stackoverflow.com/questions/4405091/how-do-you-avoid-over-populating-the-path-environment-variable-in-windows
+
+```
