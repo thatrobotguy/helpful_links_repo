@@ -746,5 +746,6 @@ Universal numbers
 https://www.nextplatform.com/2019/07/08/new-approach-could-sink-floating-point-computation/
 https://posithub.org/index
 http://johngustafson.net/unums.html
+https://www.amazon.com/End-Error-Unum-Computing-dp-1138402192/dp/1138402192/ref=mt_hardcover?_encoding=UTF8&me=&qid=1456088488
 http://simunova.com/
 ```
