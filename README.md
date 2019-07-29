@@ -107,6 +107,7 @@ https://wiki.ros.org/roslaunch/XML/arg
 https://wiki.ros.org/roslaunch/XML
 https://wiki.ros.org/roslaunch
 https://www.clearpathrobotics.com/assets/guides/ros/ROS%20Parameter%20Server.html
+https://github.com/facontidavide/rosbag_editor
 ROS2
 https://index.ros.org/doc/ros2/Tutorials/Composition/#ros-1-nodes-vs-nodelets
 ```
@@ -391,6 +392,7 @@ CAD Stuff
 ```
 https://www.youtube.com/playlist?list=PLU238OLHZaihlzrE8nVbTbh2rYHdEP0c0
 https://forum.solidworks.com/thread/114737#604676
+https://www.sdcpublications.com/Textbooks/Official-Certified-SOLIDWORKS-Professional-Certification/ISBN/978-1-63057-295-2/
 ```
 C++ c++ cpp Cpp get host IP address
 ```
@@ -748,4 +750,8 @@ https://posithub.org/index
 http://johngustafson.net/unums.html
 https://www.amazon.com/End-Error-Unum-Computing-dp-1138402192/dp/1138402192/ref=mt_hardcover?_encoding=UTF8&me=&qid=1456088488
 http://simunova.com/
+```
+NVidia
+```
+https://www.nvidia.com/en-us/design-visualization/quadro-vdws/?ncid=em-nur-prvznr-74923&mkt_tok=eyJpIjoiWXpVMk1EaGtZV00zWm1FMCIsInQiOiJOakhBY1dieGJwR3FFanR2OXRTRzFlUUg1MXVGd0VYRGJsK2NKUGJuUmtXcGR4cHpwSGxqQkhmSzQyZnFWR3VpdHhSXC9PczJ3aEZscElqa3J1ZGxMM3JMT2ZwKzJ2QUtKZjV1c0tPdTZDOWorS1JqdTFcL1JraFdsaWNUd0k5TXJKIn0%3D
 ```
