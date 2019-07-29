@@ -174,6 +174,8 @@ https://askubuntu.com/questions/68922/cant-compile-program-that-uses-sdl-after-u
 https://medium.com/@dmi3coder/c-java-socket-communication-easily-lets-try-protobuf-586b18521f79
 https://stackoverflow.com/questions/1641182/how-can-i-catch-a-ctrl-c-event?noredirect=1&lq=1
 https://stackoverflow.com/questions/10954392/reading-protobuf-objects-using-boostasioread-async?
+
+
 ```
 Learning Cpp
 ```
@@ -205,6 +207,9 @@ http://blog.ajhodges.com/2011/10/cross-platform-communication-using.html
 http://www.howtobuildsoftware.com/index.php/built-with/protocol-buffers
 https://godoc.org/github.com/alecthomas/protobuf
 https://developers.google.com/protocol-buffers/docs/techniques?csw=1
+
+https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/ref=sxbs_sxwds-stvp?pd_rd_i=0134997832&pd_rd_r=b4943243-4fa3-434b-9bc3-783190bbcb60&pd_rd_w=4Flug&pd_rd_wg=fRD92&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=3YPKV3DW7MFD11Q7JVPA&qid=1564002212&refinements=p_27%3APeter+Gottschling&s=books&text=Peter+Gottschling
+https://www.amazon.com/s?i=stripbooks&rh=p_27%3APeter+Gottschling&s=relevancerank&text=Peter+Gottschling&ref=dp_byline_sr_book_1
 ```
 When you want to have multiple types of protobuf messages inside of a single message, you can use this technique.
 ```
@@ -235,6 +240,7 @@ Cpp raspi camera
 https://github.com/cedricve/raspicam
 https://www.raspberrypi.org/magpi/back-up-raspberry-pi/
 https://www.geek.com/chips/how-to-tell-how-much-ram-your-raspberry-pi-has-1522529/
+http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/
 ```
 
 OpenCV links
