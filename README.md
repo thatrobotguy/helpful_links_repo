@@ -741,3 +741,10 @@ https://superuser.com/questions/387619/overcoming-the-1024-character-limit-with-
 https://stackoverflow.com/questions/4405091/how-do-you-avoid-over-populating-the-path-environment-variable-in-windows
 
 ```
+Universal numbers
+```
+https://www.nextplatform.com/2019/07/08/new-approach-could-sink-floating-point-computation/
+https://posithub.org/index
+http://johngustafson.net/unums.html
+http://simunova.com/
+```
