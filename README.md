@@ -765,3 +765,7 @@ NVidia
 ```
 https://www.nvidia.com/en-us/design-visualization/quadro-vdws/?ncid=em-nur-prvznr-74923&mkt_tok=eyJpIjoiWXpVMk1EaGtZV00zWm1FMCIsInQiOiJOakhBY1dieGJwR3FFanR2OXRTRzFlUUg1MXVGd0VYRGJsK2NKUGJuUmtXcGR4cHpwSGxqQkhmSzQyZnFWR3VpdHhSXC9PczJ3aEZscElqa3J1ZGxMM3JMT2ZwKzJ2QUtKZjV1c0tPdTZDOWorS1JqdTFcL1JraFdsaWNUd0k5TXJKIn0%3D
 ```
+New versions of gcc GCC g++
+```
+https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
+```
