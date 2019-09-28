@@ -703,6 +703,10 @@ http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/CUDA_Ins
 http://developer.download.nvidia.com/compute/cuda/9.0/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
 https://developer.nvidia.com/cuda-90-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=runfilelocal
 ```
+If you want to change versions of gcc and c++ for your CUDA Cuda cuda installation, you can follow this link here:
+```
+https://stackoverflow.com/questions/6622454/cuda-incompatible-with-my-gcc-version
+```
 PoCo Poco poco library and info
 ```
 https://pocoproject.org/docs/00100-GuidedTour.html
