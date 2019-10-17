@@ -773,3 +773,12 @@ New versions of gcc GCC g++
 ```
 https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
 ```
+Bash bash Scripting
+```
+https://linuxhint.com/bash_lowercase_uppercase_strings/
+https://stackoverflow.com/questions/6482377/check-existence-of-input-argument-in-a-bash-shell-script
+https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+https://bash.cyberciti.biz/guide/Bash_variable_existence_check
+https://www.lifewire.com/pass-arguments-to-bash-script-2200571
+
+```
