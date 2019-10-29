@@ -787,5 +787,9 @@ SCP scp remote to local and vice versa copying of files
 https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
 https://medium.com/dev-blogs/transferring-files-between-remote-server-and-local-system-133d78d58137
 https://www.skysilk.com/blog/2019/scp-secure-file-transfer/
-
+https://www.linux.com/tutorials/how-securely-transfer-files-between-servers-scp/
+```
+And the Putty version of scp:
+```
+https://unix.stackexchange.com/questions/92715/can-i-transfer-files-using-ssh
 ```
