@@ -782,3 +782,10 @@ https://bash.cyberciti.biz/guide/Bash_variable_existence_check
 https://www.lifewire.com/pass-arguments-to-bash-script-2200571
 
 ```
+SCP scp remote to local and vice versa copying of files
+```
+https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
+https://medium.com/dev-blogs/transferring-files-between-remote-server-and-local-system-133d78d58137
+https://www.skysilk.com/blog/2019/scp-secure-file-transfer/
+
+```
