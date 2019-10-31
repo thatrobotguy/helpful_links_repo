@@ -797,6 +797,7 @@ https://unix.stackexchange.com/questions/92715/can-i-transfer-files-using-ssh
 How I installed python 3.7 on my ubuntu 1804 machine
 ```
 sudo apt-get install python3.7 # This is python
+ sudo apt install python3.7-dev # development libraries
 python3.7 -m pip install pip   # This is pip for python 3.7
 pip3.7 install --user opencv-python # opencv for python 3.7
 ```
